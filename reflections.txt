@@ -1,0 +1,10 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+---
+I learned the following tags: sup (superscript), hr (horizontal rule), em (emphasis), and strong to bold text.
+Everythinh was easy for me due to some experience that I have and MDN developer reference site.
+Nothing particular.
+I used the strategies of going to the MDN reference and searching for the elements that I did not know about.
