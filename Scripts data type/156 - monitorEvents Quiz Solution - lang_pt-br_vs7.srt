@@ -1,0 +1,14 @@
+1
+00:00:00,220 --> 00:00:05,059
+Depois de interagir com a imagem e
+analisar as informações que
+
+2
+00:00:05,059 --> 00:00:10,161
+os eventos de monitor registram, vejo mouseout,
+mouseover e mousemove.
+
+3
+00:00:10,161 --> 00:00:15,814
+Assim, as respostas corretas aqui são
+mouseout, mouseover e mousemove.

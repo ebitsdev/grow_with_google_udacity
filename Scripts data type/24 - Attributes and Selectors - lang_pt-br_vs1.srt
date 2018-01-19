@@ -1,0 +1,331 @@
+1
+00:00:00,650 --> 00:00:03,430
+Vamos dar mais atenção
+aos seletores.
+
+2
+00:00:03,430 --> 00:00:08,090
+Para isso, criei
+uma página da Web simples, sem estilo.
+
+3
+00:00:08,090 --> 00:00:12,700
+Esta página da Web mostra meus
+três livros favoritos de todos os tempos.
+
+4
+00:00:13,000 --> 00:00:16,825
+Caso não tenha percebido, sou
+fã de histórias de sobrevivência e aventuras.
+
+5
+00:00:17,130 --> 00:00:19,800
+Vamos tentar adicionar mais
+estilo a esta página da Web.
+
+6
+00:00:20,065 --> 00:00:23,285
+Abri o arquivo .HTML e,
+usando seletores de tag,
+
+7
+00:00:23,285 --> 00:00:29,940
+podemos escrever CSS que seleciona todas
+as tags h1, tags H2 ou tags parágrafo.
+
+8
+00:00:29,940 --> 00:00:33,020
+Mas e se quisermos adicionar
+estilo aos resumos de livro,
+
+9
+00:00:33,020 --> 00:00:35,490
+mas não à descrição do site
+na parte superior?
+
+10
+00:00:35,490 --> 00:00:39,510
+Com seletores de tag, só podemos
+selecionar todas as tags de parágrafo.
+
+11
+00:00:39,510 --> 00:00:40,820
+Então, o que fazemos?
+
+12
+00:00:40,820 --> 00:00:45,290
+Felizmente, temos mais algumas maneiras
+de selecionar elementos HTML com CSS,
+
+13
+00:00:45,290 --> 00:00:47,230
+além do uso de tags.
+
+14
+00:00:47,230 --> 00:00:50,320
+Podemos usar atributos.
+
+15
+00:00:50,320 --> 00:00:54,725
+Vou alterar meu arquivo html
+para demonstrar como isso funciona.
+
+16
+00:00:55,130 --> 00:00:55,910
+Muito bem.
+
+17
+00:00:55,910 --> 00:00:59,710
+Agora, recarreguei meu novo arquivo HTML
+com algumas alterações.
+
+18
+00:00:59,710 --> 00:01:02,870
+Quando examinarmos o arquivo, vemos que
+adicionei este atributo ID
+
+19
+00:01:02,870 --> 00:01:05,474
+de descrição do site
+ao meu primeiro parágrafo.
+
+20
+00:01:05,675 --> 00:01:07,600
+E se observarmos os outros
+parágrafos, eu tenho
+
+21
+00:01:07,725 --> 00:01:10,370
+esta classe book-summary.
+
+22
+00:01:10,370 --> 00:01:12,840
+Estes dois atributos
+são extremamente úteis.
+
+23
+00:01:12,840 --> 00:01:16,240
+Primeiro, porque nos ajudam
+a descrever o conteúdo da página
+
+24
+00:01:16,240 --> 00:01:18,275
+dentro da marcação HTML.
+
+25
+00:01:18,600 --> 00:01:21,750
+Agora você pode ver claramente que
+o primeiro parágrafo da minha página da Web
+
+26
+00:01:21,750 --> 00:01:23,600
+é a minha descrição do site.
+
+27
+00:01:23,600 --> 00:01:27,080
+Tenha em mente que é
+preciso usar IDs com parcimônia.
+
+28
+00:01:27,080 --> 00:01:30,475
+Isso ocorre porque um elemento HTML
+só pode ter um ID
+
+29
+00:01:30,550 --> 00:01:33,670
+e só é possível usar
+um ID por página.
+
+30
+00:01:33,670 --> 00:01:34,630
+Por exemplo:
+
+31
+00:01:34,630 --> 00:01:38,570
+Se eu digito "another ID",
+isso não está certo,
+
+32
+00:01:38,570 --> 00:01:41,600
+pois, estou passando dois IDs,
+site description
+
+33
+00:01:41,800 --> 00:01:44,400
+e another ID
+ao mesmo elemento.
+
+34
+00:01:44,400 --> 00:01:48,580
+Se eu adicionar o ID site description
+aqui, isso também não está certo,
+
+35
+00:01:48,675 --> 00:01:51,360
+pois agora estou usando site
+description em dois lugares.
+
+36
+00:01:51,360 --> 00:01:54,530
+Se eu quisesse adicionar um ID aqui,
+teria que dar outro nome a ele
+
+37
+00:01:54,530 --> 00:01:56,220
+que ainda não tivesse sido usado.
+
+38
+00:01:56,220 --> 00:02:01,360
+Se eu mudar o ID para
+first-book aí sim.
+
+39
+00:02:01,360 --> 00:02:03,600
+Em geral, quando você
+aplica estilos à página,
+
+40
+00:02:03,600 --> 00:02:05,600
+aplica estilos de coleções
+de elementos,
+
+41
+00:02:05,700 --> 00:02:07,600
+não elementos individuais.
+
+42
+00:02:07,700 --> 00:02:09,250
+Se você quiser adicionar
+o mesmo atributo
+
+43
+00:02:09,250 --> 00:02:11,030
+a vários elementos HTML,
+
+44
+00:02:11,030 --> 00:02:14,725
+use classes, como eu fiz
+aqui para book-summary.
+
+45
+00:02:15,020 --> 00:02:18,050
+As classes podem ser adicionadas
+a vários elementos HTML.
+
+46
+00:02:18,050 --> 00:02:21,080
+E os elementos HTML podem
+ter várias classes.
+
+47
+00:02:21,080 --> 00:02:24,600
+Isso torna as classes muito
+poderosas e flexíveis.
+
+48
+00:02:24,810 --> 00:02:27,175
+Você as usará constantemente
+como desenvolvedor Web,
+
+49
+00:02:27,300 --> 00:02:30,970
+e a maioria dos desenvolvedores Web
+prefere classes, em vez de IDs.
+
+50
+00:02:30,970 --> 00:02:33,825
+Além da organização, esses
+atributos podem ser usados
+
+51
+00:02:33,900 --> 00:02:35,690
+como seletores CSS.
+
+52
+00:02:35,690 --> 00:02:38,175
+Voltando à minha pergunta,
+eu queria
+
+53
+00:02:38,175 --> 00:02:39,770
+aplicar um estilo aos meus resumos de livros
+
+54
+00:02:39,770 --> 00:02:42,780
+de modo diferente da minha
+descrição do site aqui.
+
+55
+00:02:42,780 --> 00:02:46,090
+Usando ID e seletores de classe,
+posso fazer isso facilmente.
+
+56
+00:02:46,090 --> 00:02:48,960
+Para os resumos de livros,
+o atributo class é usado.
+
+57
+00:02:48,960 --> 00:02:52,200
+Para selecionar um elemento HTML
+com o atributo classe,
+
+58
+00:02:52,275 --> 00:02:56,525
+digito um ponto seguido
+pelo nome da classe.
+
+59
+00:02:57,000 --> 00:03:00,510
+Para a descrição do site,
+o atributo ID é usado.
+
+60
+00:03:00,510 --> 00:03:03,590
+Para selecionar um elemento
+HTML com um atributo ID,
+
+61
+00:03:03,590 --> 00:03:07,175
+digito a cerquilha
+ou hashtag seguida
+
+62
+00:03:07,175 --> 00:03:09,140
+pelo nome do ID.
+
+63
+00:03:09,140 --> 00:03:10,510
+Certo. Tudo bem.
+
+64
+00:03:10,510 --> 00:03:14,500
+Agora, um pouco de estilo
+para ter certeza de que os seletores funcionam.
+
+65
+00:03:14,600 --> 00:03:18,300
+Vamos mudar a cor da propriedade
+para azul no nosso resumo do livro.
+
+66
+00:03:18,400 --> 00:03:22,575
+E vamos mudar a cor da propriedade
+para vermelho na descrição do site.
+
+67
+00:03:23,070 --> 00:03:27,710
+Agora salve e atualize e está perfeito.
+
+68
+00:03:27,710 --> 00:03:29,725
+Podemos ver que a descrição
+do site e os resumos dos livros
+
+69
+00:03:29,725 --> 00:03:31,650
+têm cores diferentes.
+
+70
+00:03:31,650 --> 00:03:33,175
+Então nossos seletores funcionaram.

@@ -1,0 +1,32 @@
+1
+00:00:00,410 --> 00:00:01,970
+Aqui está outro teste.
+
+2
+00:00:01,970 --> 00:00:03,874
+Confira a
+página da Web a seguir.
+
+3
+00:00:03,919 --> 00:00:05,960
+Ela utiliza 
+várias tags parágrafo.
+
+4
+00:00:07,350 --> 00:00:10,820
+Se eu escrevo um conjunto de regras CSS
+usando um seletor p,
+
+5
+00:00:10,820 --> 00:00:13,000
+que parágrafos são
+afetados pelo estilo?
+
+6
+00:00:13,626 --> 00:00:15,756
+O estilo afetaria
+apenas o primeiro parágrafo
+
+7
+00:00:15,900 --> 00:00:17,904
+ou todos os parágrafos?

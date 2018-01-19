@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:01,190
+lo primero es lo primero
+
+2
+00:00:01,190 --> 00:00:03,480
+tenemos que apuntar al
+elemento que vamos a
+
+3
+00:00:03,480 --> 00:00:06,060
+escuchar a los eventos
+así que eso es B
+
+4
+00:00:06,060 --> 00:00:09,700
+pocision dos es el metodo
+así que eso es C
+
+5
+00:00:09,770 --> 00:00:12,843
+posición tres es el tipo de
+evento que queremos escuchar.
+
+6
+00:00:12,843 --> 00:00:14,526
+asi que eso es D
+
+7
+00:00:15,766 --> 00:00:18,091
+Y el último es A, la devolución de llamada
+
+8
+00:00:18,091 --> 00:00:19,961
+función que se ejecuta cuando 
+el evento
+
+9
+00:00:19,961 --> 00:00:21,341
+sucede en elemento objetivo.

@@ -1,0 +1,33 @@
+1
+00:00:00,040 --> 00:00:02,540
+I oriented you through using
+jQuery's on() method,
+
+2
+00:00:02,700 --> 00:00:06,010
+and you spent some time researching
+jQuery's methods...
+
+3
+00:00:06,010 --> 00:00:08,050
+that are shortcuts
+for the on() method.
+
+4
+00:00:08,158 --> 00:00:09,720
+There's still another way...
+
+5
+00:00:09,760 --> 00:00:12,240
+to set up an event listener
+jQuery's on() method.
+
+6
+00:00:12,450 --> 00:00:15,140
+In the next section,
+you'll learn about event delegation,
+
+7
+00:00:15,227 --> 00:00:19,247
+where jQuery watches one parent
+element for events on any of its children.

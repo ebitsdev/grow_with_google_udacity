@@ -1,0 +1,75 @@
+1
+00:00:00,380 --> 00:00:02,360
+DOM é uma estrutura de dados.
+
+2
+00:00:02,360 --> 00:00:05,800
+Ele pode ser descrito como uma árvore, como uma árvore genealógica.
+
+3
+00:00:05,800 --> 00:00:09,000
+Tenho uma árvore genealógica de exemplo aqui.
+
+4
+00:00:09,000 --> 00:00:14,215
+Esta família tem pais, filhos e até mesmo irmãos.
+
+5
+00:00:22,990 --> 00:00:26,639
+Elementos que estão aninhados dentro um dos outros no DOM são filhos, como, por
+
+6
+00:00:26,639 --> 00:00:30,280
+exemplo, esta lista não ordenada, que é um filho de div.
+
+7
+00:00:30,280 --> 00:00:34,660
+Elementos que estão no mesmo nível são irmãos, como estes dois elementos de lista ou
+
+8
+00:00:34,660 --> 00:00:36,270
+esta lista não ordenada e este form.
+
+9
+00:00:37,870 --> 00:00:40,690
+Naturalmente, também podemos subir no DOM.
+
+10
+00:00:40,690 --> 00:00:43,980
+Por exemplo, este div é pai deste div.
+
+11
+00:00:43,980 --> 00:00:48,620
+Ao escrever HTML, você cria uma coleção de elementos aninhados que, no final,
+
+12
+00:00:48,620 --> 00:00:51,990
+lembra uma estrutura como esta árvore genealógica.
+
+13
+00:00:51,990 --> 00:00:54,930
+Este HTML é mapeado para a árvore do DOM que pode ser vista aqui.
+
+14
+00:00:55,998 --> 00:01:00,240
+Aqui, body está no nível superior e tem alguns divs aninhados sob ele.
+
+15
+00:01:00,240 --> 00:01:02,960
+Para este quiz, examine esta árvore do DOM.
+
+16
+00:01:04,260 --> 00:01:07,120
+Qual dos elementos DOM a seguir é o pai imediato dos
+
+17
+00:01:07,120 --> 00:01:08,920
+dois elementos de lista?
+
+18
+00:01:08,920 --> 00:01:12,220
+É possível vê-los no HTML aqui e na árvore do DOM bem aqui.
+
+19
+00:01:13,230 --> 00:01:19,710
+É body, este div, este ul ou nenhum deles?

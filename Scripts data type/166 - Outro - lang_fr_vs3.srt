@@ -1,0 +1,36 @@
+1
+00:00:00,050 --> 00:00:02,940
+Excellent travail pour cette leçon
+sur les événements jQuery.
+
+2
+00:00:02,940 --> 00:00:06,650
+Tu sais maintenant comment configurer 
+les auditeurs d'événements avec jQuery.
+
+3
+00:00:06,650 --> 00:00:09,520
+Tu peux à présent écouter 
+les interactions des utilisateurs
+
+4
+00:00:09,520 --> 00:00:10,550
+et y répondre.
+
+5
+00:00:10,550 --> 00:00:12,320
+Très bon travail.
+
+6
+00:00:12,320 --> 00:00:15,580
+Donc sors d'ici et écoute : 
+clics de souris, touches du clavier
+
+7
+00:00:15,580 --> 00:00:16,841
+et envois de formulaires.
+
+8
+00:00:16,841 --> 00:00:20,441
+Fais vivre tes pages et 
+dialogue avec tes utilisateurs.

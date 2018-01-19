@@ -1,0 +1,161 @@
+1
+00:00:00,310 --> 00:00:06,530
+Movendo de cima para baixo, que propriedade
+CSS é usada para aplicar itálico ao texto?
+
+2
+00:00:06,530 --> 00:00:09,553
+Para esta,
+vou acessar a referência CSS do Mozilla e
+
+3
+00:00:09,553 --> 00:00:11,796
+ver o que há sobre aplicar itálico ao texto.
+
+4
+00:00:11,796 --> 00:00:16,546
+Se eu procurar a palavra itálico,
+o primeiro resultado que o font-style lê
+
+5
+00:00:16,546 --> 00:00:21,708
+especifica que o tipo de letra é uma
+versão em itálico da fonte normal.
+
+6
+00:00:21,708 --> 00:00:24,360
+Isso certamente parece que ser
+o que estou procurando.
+
+7
+00:00:24,360 --> 00:00:27,630
+Se eu seguir o link, rolando para baixo.
+
+8
+00:00:27,630 --> 00:00:31,320
+Vejo que o font-style é, de fato, a
+propriedade que devo usar para aplicar itálico ao texto.
+
+9
+00:00:32,570 --> 00:00:36,770
+Então, a resposta para
+a primeira é font-style.
+
+10
+00:00:36,770 --> 00:00:40,910
+A pergunta seguinte é: que propriedade
+CSS é usada para sublinhar o texto?
+
+11
+00:00:41,950 --> 00:00:46,100
+Desta vez,
+vou pesquisar o CSS-Tricks CSS almanac.
+
+12
+00:00:46,100 --> 00:00:50,180
+Se eu for para essa página e pesquisar
+sublinhar texto, terei o resultado
+
+13
+00:00:50,180 --> 00:00:52,730
+de propriedade text-decoration.
+
+14
+00:00:52,730 --> 00:00:55,950
+Se eu clicar no link,
+haverá esta explicação no topo da página:
+
+15
+00:00:55,950 --> 00:01:00,840
+a propriedade text-decoration adiciona
+sublinhado, linha sobreposta ou linha vertical, ou
+
+16
+00:01:00,840 --> 00:01:03,830
+uma combinação de linhas,
+ao texto selecionado.
+
+17
+00:01:03,830 --> 00:01:04,430
+É isso o que quero.
+
+18
+00:01:05,480 --> 00:01:07,200
+E olhe só isto.
+
+19
+00:01:07,200 --> 00:01:11,890
+Mais para baixo na página, o CSS-Tricks
+tem até uma demonstração da propriedade em ação.
+
+20
+00:01:11,890 --> 00:01:13,470
+Isso é fantástico.
+
+21
+00:01:13,470 --> 00:01:15,670
+Então, text-decoration é a resposta para a
+número 2.
+
+22
+00:01:17,380 --> 00:01:21,110
+Para a número 3: que propriedade CSS
+é usada para deixar o texto em letras maiúsculas?
+
+23
+00:01:22,200 --> 00:01:24,500
+Vamos tentar a boa e velha pesquisa no Google e
+para ver o que encontramos.
+
+24
+00:01:25,795 --> 00:01:29,795
+Eu vou simplesmente digitar: que propriedade CSS
+é usada para o texto em letras maiúsculas.
+
+25
+00:01:31,075 --> 00:01:35,185
+Veja, nosso primeiro resultado diz
+que a propriedade text-transform
+
+26
+00:01:35,185 --> 00:01:39,845
+é usada para especificar letras maiúsculas e
+minúsculas no texto.
+
+27
+00:01:39,845 --> 00:01:41,960
+Com certeza,
+esta é a resposta da número 3.
+
+28
+00:01:44,410 --> 00:01:48,480
+Por fim: que propriedade CSS
+é usada para aplicar negrito ao texto?
+
+29
+00:01:48,480 --> 00:01:49,980
+Como você viu alguns exemplos de
+
+30
+00:01:49,980 --> 00:01:53,150
+como usar referências CSS,
+vou apenas escrever uma aqui.
+
+31
+00:01:53,150 --> 00:01:56,250
+Para aplicar negrito ao texto,
+use a propriedade font-weight.
+
+32
+00:01:56,250 --> 00:02:00,970
+Lembre-se, as referências CSS são ótimas ferramentas
+e você deve consultá-las sempre.
+
+33
+00:02:00,970 --> 00:02:02,720
+Se tiver dificuldade
+durante o desenvolvimento,
+
+34
+00:02:02,720 --> 00:02:03,940
+poderá sempre voltar a consultá-las

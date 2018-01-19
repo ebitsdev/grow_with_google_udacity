@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,458
+You can learn a lot about a website's HTML and CSS
+
+2
+00:00:02,458 --> 00:00:06,410
+just by opening developer tools and poking around.
+
+3
+00:00:06,410 --> 00:00:09,640
+Developer tools come with a ton of other great features and are
+
+4
+00:00:09,640 --> 00:00:13,000
+a perfect way to experiment and test things on a website.

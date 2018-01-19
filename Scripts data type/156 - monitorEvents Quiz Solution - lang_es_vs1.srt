@@ -1,0 +1,12 @@
+1
+00:00:00,220 --> 00:00:05,059
+Después de interactuar con la imagen y revisar la información que
+
+2
+00:00:05,059 --> 00:00:10,161
+los eventos del monitor registro, veo el ratón fuera, puntero sobre y el ratón en movimiento
+
+3
+00:00:10,161 --> 00:00:15,814
+la pregunta correcta es sobre el ratón fuera, el puntero sobre y el ratón en movimiento
+

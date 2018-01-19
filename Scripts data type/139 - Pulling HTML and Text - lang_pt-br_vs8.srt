@@ -1,0 +1,85 @@
+1
+00:00:00,450 --> 00:00:05,210
+Espero que você esteja começando a
+ver o poder dos métodos DOM do jQuery.
+
+2
+00:00:05,210 --> 00:00:09,460
+Até agora, você selecionou elementos e
+aprendeu sobre os dados dentro das tags HTML.
+
+3
+00:00:10,480 --> 00:00:15,340
+Mas e quanto aos dados que ficam entre
+as tags, você também pode obtê-los com o jQuery?
+
+4
+00:00:15,340 --> 00:00:16,490
+Sim.
+
+5
+00:00:16,490 --> 00:00:17,879
+As duas melhores opções para
+
+6
+00:00:17,879 --> 00:00:21,920
+encontrar todos os dados entre
+as tags são .html() e .text().
+
+7
+00:00:23,160 --> 00:00:26,250
+Abrirei a página inicial da Udacity e
+demonstrarei a diferença entre elas.
+
+8
+00:00:27,360 --> 00:00:28,650
+Fique à vontade para me seguir.
+
+9
+00:00:29,650 --> 00:00:34,690
+Comecei selecionando este elemento,
+com a ID da flyup-homepage,
+
+10
+00:00:34,690 --> 00:00:36,680
+você pode ver que ele
+tem outros elementos dentro dele.
+
+11
+00:00:37,820 --> 00:00:41,770
+Se você executar .html() neste elemento
+selecionado, verá o HTML de
+
+12
+00:00:41,770 --> 00:00:46,030
+tudo que está dentro de flyup-homepage,
+inclusive todas as tags, classes e
+
+13
+00:00:46,030 --> 00:00:49,950
+atributos, e assim,
+aqui está o HTML.
+
+14
+00:00:49,950 --> 00:00:53,970
+Mas se você executar .text() em uma seleção,
+verá que jQuery
+
+15
+00:00:53,970 --> 00:00:59,100
+retirou todas as tags HTML e
+retorna apenas o texto contido nela.
+
+16
+00:00:59,100 --> 00:01:02,130
+Sendo assim,
+podemos ver que o HTML desapareceu.
+
+17
+00:01:02,130 --> 00:01:07,860
+Mas você pode mudar o HTML e o texto
+de um elemento DOM com esses métodos?
+
+18
+00:01:07,860 --> 00:01:08,670
+Vamos descobrir.

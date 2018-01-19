@@ -1,0 +1,29 @@
+1
+00:00:00,310 --> 00:00:02,710
+Le guié sobre el uso del método jQuery´s
+
+2
+00:00:03,080 --> 00:00:06,010
+Y usted paso algún tiempo investigando métodos de convivencia de jQuery
+
+3
+00:00:06,010 --> 00:00:08,050
+que son sólo atajos para el método de jQuery
+
+4
+00:00:08,050 --> 00:00:10,908
+Sorprendentemente, todavía hay otra forma de configurar un detector de eventos con
+
+5
+00:00:10,908 --> 00:00:12,490
+El método de jQuery
+
+6
+00:00:12,490 --> 00:00:15,100
+En la siguiente sección,
+usted aprenderá acerca de la delegación de eventos
+
+7
+00:00:15,100 --> 00:00:18,880
+donde jQuery observa un elemento padre
+para eventos en cualquiera de sus hijos.

@@ -1,0 +1,19 @@
+1
+00:00:00,025 --> 00:00:04,380
+Die "hover"-Methode von jQuery
+entspricht nicht ".on hover".
+
+2
+00:00:05,520 --> 00:00:10,002
+Die "hover"-Methode ist nämlich eine
+Vereinfachung für die ".mousenter,
+
+3
+00:00:10,002 --> 00:00:12,430
+.mouseleave"-Methoden.
+
+4
+00:00:12,470 --> 00:00:15,930
+Diese Vereinfachungs-Methoden sind extrem
+praktisch, also verwendet sie.
+

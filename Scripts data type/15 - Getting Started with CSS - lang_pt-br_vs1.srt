@@ -1,0 +1,76 @@
+1
+00:00:00,560 --> 00:00:03,660
+Olá a todos! Bem-vindos
+a esta lição sobre estilo.
+
+2
+00:00:03,660 --> 00:00:06,118
+Antes de começar, quero
+apresentar James Parks,
+
+3
+00:00:06,118 --> 00:00:08,025
+outro desenvolvedor de cursos
+aqui da Udacity.
+
+4
+00:00:08,025 --> 00:00:09,560
+Olá!
+
+5
+00:00:09,560 --> 00:00:11,000
+Já aprendemos
+a desenvolver
+
+6
+00:00:11,000 --> 00:00:13,400
+seu primeiro site com HTML.
+
+7
+00:00:13,400 --> 00:00:15,932
+Agora, James vai
+aprofundar as coisas um pouco mais
+
+8
+00:00:15,932 --> 00:00:17,790
+e adicionar um pouco de estilo aos sites.
+
+9
+00:00:17,790 --> 00:00:20,700
+Nesta lição,
+você escreverá CSS
+
+10
+00:00:20,700 --> 00:00:22,000
+para melhorar a aparência dos sites,
+
+11
+00:00:22,000 --> 00:00:25,700
+e experimentará
+ferramentas do desenvolvedor de navegadores.
+
+12
+00:00:25,700 --> 00:00:27,700
+As ferramentas do desenvolvedor são muito úteis.
+
+13
+00:00:27,700 --> 00:00:30,000
+Dentre outras coisas, você descobrirá
+que pode testar estilos
+
+14
+00:00:30,000 --> 00:00:32,000
+muito rapidamente com elas.
+
+15
+00:00:32,000 --> 00:00:34,280
+Isso é fantástico adoro ferramentas do desenvolvedor.
+
+16
+00:00:34,280 --> 00:00:37,090
+Da minha parte é só,
+agora vou deixar você com o James.
+
+17
+00:00:37,090 --> 00:00:38,350
+Muito bem. Vamos começar.

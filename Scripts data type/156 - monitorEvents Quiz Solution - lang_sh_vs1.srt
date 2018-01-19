@@ -1,0 +1,14 @@
+1
+00:00:00,220 --> 00:00:05,059
+Nako interakcije sa slikom i 
+pregleda informacija koje
+
+2
+00:00:05,059 --> 00:00:10,161
+monitor events odjavljuje, ja vidim 
+mouseout, mouseover i mousemove.
+
+3
+00:00:10,161 --> 00:00:15,814
+Tako da bi tacan odgovor ovde bio 
+mouseout, mouseover i mousemove.

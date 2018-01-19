@@ -1,0 +1,14 @@
+1
+00:00:00,220 --> 00:00:05,059
+Después de interactuar con la imagen y
+la revisión de la información que
+
+2
+00:00:05,059 --> 00:00:10,161
+supervisar los eventos registra fuera , veo mouseout ,
+mouseover y mousemove .
+
+3
+00:00:10,161 --> 00:00:15,814
+Así que las respuestas correctas aquí serían mouseout, mouseover, and mousemove.
+

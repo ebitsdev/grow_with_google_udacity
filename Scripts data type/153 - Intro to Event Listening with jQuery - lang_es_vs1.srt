@@ -1,0 +1,75 @@
+1
+00:00:00,390 --> 00:00:03,440
+Hola, soy Richard ,
+un desarrollador de curso en Udacity .
+
+2
+00:00:03,440 --> 00:00:04,320
+Después de revisar algunas de las
+
+3
+00:00:04,320 --> 00:00:05,010
+votaciones para la
+este curso,
+
+4
+00:00:05,010 --> 00:00:06,110
+Cameron me pidió que
+
+5
+00:00:06,110 --> 00:00:09,260
+ayudara a poner una lección adicional sobre los eventos de jQuery .
+
+6
+00:00:09,260 --> 00:00:09,920
+Aquí estamos.
+
+7
+00:00:09,920 --> 00:00:11,790
+Eventos que te dan el poder para
+configurar respuestas automáticas
+
+8
+00:00:11,790 --> 00:00:14,130
+sobre la base de lo que hacen sus usuarios
+
+9
+00:00:14,130 --> 00:00:16,140
+cuando están en su pagina.
+
+10
+00:00:16,150 --> 00:00:19,630
+En esta breve lección, vamos a tomar
+un vistazo
+
+11
+00:00:19,630 --> 00:00:22,290
+a cómo los acontecimientos del navegador
+
+12
+00:00:22,380 --> 00:00:23,057
+puede ayudar
+
+13
+00:00:23,057 --> 00:00:25,147
+a desarrollar sitios web interactivos.
+
+14
+00:00:25,147 --> 00:00:27,211
+Usted va a hacer esto mediante la escucha de
+y haciendo reaccionar a los eventos.
+
+15
+00:00:27,211 --> 00:00:28,581
+Ahora usted puede hacer esto sin
+bibliotecas en absoluto, sino para
+
+16
+00:00:28,581 --> 00:00:30,081
+simplicidad usaremos
+jQuery en este curso.
+
+17
+00:00:30,261 --> 00:00:31,741
+Listo para empezar?
+

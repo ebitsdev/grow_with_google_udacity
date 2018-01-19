@@ -1,0 +1,34 @@
+1
+00:00:00,000 --> 00:00:02,300
+Te caminaba por el uso
+El método de jQuery en
+
+2
+00:00:02,300 --> 00:00:05,680
+Y usted pasó algún tiempo investigando
+métodos de conveniencia de jQuery
+
+3
+00:00:05,680 --> 00:00:07,650
+que son sólo atajos para
+el método de ().
+
+4
+00:00:07,650 --> 00:00:10,318
+Sorprendentemente, todavía hay otra
+forma de configurar
+
+5
+00:00:10,318 --> 00:00:12,780
+un detector de eventos con 
+El método de jQuery en.
+
+6
+00:00:12,780 --> 00:00:16,360
+En la siguiente sección,usted aprenderá
+acerca de la delegación de eventos,
+
+7
+00:00:16,360 --> 00:00:19,731
+donde relojes jQuery un elemento padre
+para los eventos en cualquiera de sus hijos.

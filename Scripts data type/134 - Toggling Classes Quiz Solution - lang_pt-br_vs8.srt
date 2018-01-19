@@ -1,0 +1,47 @@
+1
+00:00:00,660 --> 00:00:05,340
+Para começar, criei variáveis para o artigo dois e o artigo três.
+
+2
+00:00:05,340 --> 00:00:10,110
+O artigo dois é definido como igual a este seletor jQuery para a classe featured,
+
+3
+00:00:10,110 --> 00:00:14,480
+então defini o artigo três para o próximo irmão do artigo dois.
+
+4
+00:00:14,480 --> 00:00:18,890
+Em seguida, tudo o que fiz foi alternar a classe de featured no artigo dois e
+
+5
+00:00:18,890 --> 00:00:20,190
+artigo três.
+
+6
+00:00:20,190 --> 00:00:20,920
+Cliquei em Test Run.
+
+7
+00:00:20,920 --> 00:00:22,970
+Vamos ver como ficou.
+
+8
+00:00:22,970 --> 00:00:26,451
+Podemos ver que agora o artigo três tem um fundo azul enquanto o artigo dois
+
+9
+00:00:26,451 --> 00:00:26,980
+não.
+
+10
+00:00:26,980 --> 00:00:29,090
+Parece que deu certo.
+
+11
+00:00:29,090 --> 00:00:32,140
+Isso mostra que toggleClass vai adicionar ou
+
+12
+00:00:32,140 --> 00:00:35,200
+remover uma classe, dependendo de ela já estar ou não ali.

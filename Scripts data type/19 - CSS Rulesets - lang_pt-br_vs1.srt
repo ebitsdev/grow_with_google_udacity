@@ -1,0 +1,200 @@
+1
+00:00:00,250 --> 00:00:03,690
+Confira este código CSS
+do site da Coca Cola.
+
+2
+00:00:03,690 --> 00:00:05,100
+Parece intenso.
+
+3
+00:00:05,425 --> 00:00:09,130
+Para poder escrever código
+CSS como este, você precisa primeiro
+
+4
+00:00:09,130 --> 00:00:11,525
+compreender os blocos básicos
+de construção que compõem
+
+5
+00:00:11,525 --> 00:00:13,520
+uma única instrução CSS.
+
+6
+00:00:13,790 --> 00:00:17,070
+Todo CSS começa com o que
+é conhecido como um conjunto de regras.
+
+7
+00:00:17,070 --> 00:00:22,000
+Um conjunto de regras é composto de duas partes,
+um seletor que é o código que
+
+8
+00:00:22,000 --> 00:00:25,000
+seleciona os elementos HTML
+aos quais você quer aplicar estilo,
+
+9
+00:00:25,125 --> 00:00:26,610
+e um bloco de declaração
+
+10
+00:00:26,610 --> 00:00:29,325
+que é o código que descreve
+os estilos aos quais você quer
+
+11
+00:00:29,325 --> 00:00:31,320
+aplicar o dito HTML.
+
+12
+00:00:31,590 --> 00:00:36,325
+As declarações são as linhas de código
+escritas entre chaves.
+
+13
+00:00:36,710 --> 00:00:41,040
+Como um exemplo, vamos examinar
+esta página da Web simples e sem estilo.
+
+14
+00:00:41,040 --> 00:00:45,570
+À esquerda, tenho minha página da Web,
+e à direita, tenho meu código
+
+15
+00:00:45,570 --> 00:00:46,840
+da página da Web.
+
+16
+00:00:46,840 --> 00:00:48,820
+Lembra-se de como o título
+da página é usado
+
+17
+00:00:48,820 --> 00:00:51,070
+para as metainformações
+sobre o site?
+
+18
+00:00:51,070 --> 00:00:53,750
+O estilo é uma das peças
+de informações que entra
+
+19
+00:00:53,750 --> 00:00:55,300
+no título.
+
+20
+00:00:55,300 --> 00:00:58,940
+Qualquer coisa colocada
+nestas tags style é CSS.
+
+21
+00:00:58,940 --> 00:01:01,650
+Neste exemplo, começarei
+digitando p,
+
+22
+00:01:01,650 --> 00:01:03,480
+seguido por chaves,
+
+23
+00:01:03,480 --> 00:01:08,740
+em seguida, a cor: azul,
+e terminarei com um ponto-e-vírgula.
+
+24
+00:01:08,740 --> 00:01:11,420
+Este p é nosso seletor.
+
+25
+00:01:11,420 --> 00:01:14,800
+Ele está dizendo ao navegador:
+quero selecionar todas as tags p,
+
+26
+00:01:14,875 --> 00:01:17,450
+ou tags parágrafo, na página.
+
+27
+00:01:17,725 --> 00:01:21,375
+O código entre as
+chaves é nossa declaração.
+
+28
+00:01:21,650 --> 00:01:27,190
+Ele diz color: blue;.
+
+29
+00:01:27,190 --> 00:01:30,575
+Nesta linha, color é a propriedade
+que queremos alterar
+
+30
+00:01:30,700 --> 00:01:33,900
+e blue é o valor
+que queremos passar para ela.
+
+31
+00:01:34,190 --> 00:01:37,250
+É assim que o CSS funciona para
+cada propriedade.
+
+32
+00:01:37,250 --> 00:01:40,825
+Você passa um valor, como blue,
+e o valor descreve
+
+33
+00:01:40,825 --> 00:01:41,810
+como o navegador deve
+
+34
+00:01:41,810 --> 00:01:43,930
+renderizar a propriedade
+para o elemento.
+
+35
+00:01:43,930 --> 00:01:46,790
+As propriedades são sempre
+escritas em inglês simples.
+
+36
+00:01:46,790 --> 00:01:49,450
+E identificam um recurso
+de um elemento HTML
+
+37
+00:01:49,450 --> 00:01:51,360
+que você quer alterar.
+
+38
+00:01:51,360 --> 00:01:55,440
+Vamos ver a aparência desta página
+depois que adiciono esse CSS.
+
+39
+00:01:55,440 --> 00:02:00,075
+Eu clico em Salvar, e atualizo
+minha página e voilà,
+
+40
+00:02:00,250 --> 00:02:01,260
+lá vamos nós.
+
+41
+00:02:01,260 --> 00:02:03,550
+Quando adicionei o CSS
+à página da Web,
+
+42
+00:02:03,550 --> 00:02:04,840
+a cor da fonte
+
+43
+00:02:04,840 --> 00:02:07,225
+e as tags parágrafo
+mudaram para azul.

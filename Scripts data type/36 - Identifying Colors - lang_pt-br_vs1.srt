@@ -1,0 +1,17 @@
+1
+00:00:00,630 --> 00:00:04,250
+Há várias formas distintas
+de expressar cor no CSS.
+
+2
+00:00:04,250 --> 00:00:08,560
+Neste exercício, selecione
+as declarações CSS corretas para
+
+3
+00:00:08,560 --> 00:00:09,740
+a cor azul padrão.
+
+4
+00:00:10,750 --> 00:00:11,900
+Marque todas as aplicáveis.

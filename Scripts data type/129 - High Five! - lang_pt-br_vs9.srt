@@ -1,0 +1,47 @@
+1
+00:00:00,720 --> 00:00:04,970
+A essa altura do campeonato, você já tem uma boa ideia de como o jQuery funciona.
+
+2
+00:00:04,970 --> 00:00:07,630
+Você usou os três tipos principais de seletor e
+
+3
+00:00:07,630 --> 00:00:10,890
+iniciou a navegação em torno do DOM com métodos de passagem.
+
+4
+00:00:10,890 --> 00:00:12,240
+Isso é fantástico.
+
+5
+00:00:12,240 --> 00:00:15,290
+Mas chegou a hora de começar a fazer mudanças no DOM,
+
+6
+00:00:15,290 --> 00:00:16,750
+que é a proposta do jQuery.
+
+7
+00:00:17,940 --> 00:00:22,800
+Para isso, você usará a documentação da API do jQuery na próxima lição.
+
+8
+00:00:22,800 --> 00:00:26,190
+E em vez de passar pelos métodos, um a um, vou mostrar a você
+
+9
+00:00:26,190 --> 00:00:29,250
+uma série de desafios para os quais você precisará vasculhar
+
+10
+00:00:29,250 --> 00:00:33,310
+a documentação do jQuery a fim de entender como fazer mudanças em uma página de exemplo.
+
+11
+00:00:34,350 --> 00:00:37,220
+Para começar, quero mostrar a você o formato geral da
+
+12
+00:00:37,220 --> 00:00:39,040
+documentação da API do jQuery.

@@ -1,0 +1,16 @@
+1
+00:00:00,025 --> 00:00:04,380
+el método de conveniencia libración jQuery no es un acceso directo para la libación.
+
+2
+00:00:05,520 --> 00:00:10,002
+El método de la libración de conveniencia es en realidad un acceso directo para el mouseenter
+
+3
+00:00:10,002 --> 00:00:12,970
+.mouseleave métodos de conveniencia.
+
+4
+00:00:12,970 --> 00:00:15,930
+Estos métodos de conveniencia son increíblemente útil, por lo que usarlos.
+

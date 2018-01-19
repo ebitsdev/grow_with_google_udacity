@@ -1,0 +1,18 @@
+1
+00:00:00,066 --> 00:00:02,961
+Agora que você
+reviu os documentos do jQuery docs,
+
+2
+00:00:02,961 --> 00:00:06,647
+qual destes itens não é
+um atalho equivalente ao método on?
+
+3
+00:00:06,647 --> 00:00:10,562
+Por exemplo, se o método
+keyup não for um atalho para
+
+4
+00:00:10,562 --> 00:00:13,000
+on keyup, selecione este item.

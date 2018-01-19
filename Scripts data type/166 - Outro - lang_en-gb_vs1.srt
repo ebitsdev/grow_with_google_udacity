@@ -1,0 +1,36 @@
+1
+00:00:00,430 --> 00:00:03,120
+Great job going through 
+this lesson on jQuery events.
+
+2
+00:00:03,470 --> 00:00:05,780
+You know how to set up
+event listeners with it.
+
+3
+00:00:05,780 --> 00:00:10,300
+You can now listen for user interactions
+and respond to those interactions.
+
+4
+00:00:10,480 --> 00:00:11,580
+Fantastic work.
+
+5
+00:00:12,220 --> 00:00:15,370
+So, get out there and listen for
+those mouse clicks, key presses,
+
+6
+00:00:15,380 --> 00:00:16,840
+and form submissions.
+
+7
+00:00:16,970 --> 00:00:18,127
+Bring your pages to life
+
+8
+00:00:18,137 --> 00:00:19,921
+and start engaging with your users.
+

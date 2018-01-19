@@ -1,0 +1,87 @@
+1
+00:00:00,200 --> 00:00:03,450
+Mit der "on"-Methode von jQuery habt 
+Ihr bislang Event Listeners erstellt.
+
+2
+00:00:03,450 --> 00:00:05,840
+Das funktioniert wirklich gut, aber
+
+3
+00:00:05,840 --> 00:00:08,510
+jQuery bietet auch einige vereinfachende
+Methoden, die Ihr verwenden könnt.
+
+4
+00:00:08,510 --> 00:00:09,930
+Lasst uns einen Blick darauf werfen.
+
+5
+00:00:09,930 --> 00:00:12,240
+So würden wir einen Event Listener für
+
+6
+00:00:12,240 --> 00:00:15,730
+einen Tastendruck für jedes Eingabefeld
+einrichten.
+
+7
+00:00:15,730 --> 00:00:17,690
+Wir können dies umschreiben, indem wir
+
+8
+00:00:17,690 --> 00:00:21,690
+die vereinfachende jQuery-Methode verwenden
+und dabei das "on" durch "keypress" ersetzen.
+
+9
+00:00:21,690 --> 00:00:24,460
+Jetzt brauchen wird den Typ des Events nicht mehr
+anzugeben,
+
+10
+00:00:24,510 --> 00:00:26,830
+da die Vereinfachungs-Methode dies schon impliziert.
+
+11
+00:00:26,830 --> 00:00:27,870
+Seht Ihr?
+
+12
+00:00:27,870 --> 00:00:28,440
+Viel schöner.
+
+13
+00:00:29,570 --> 00:00:33,210
+Wenn Ihr Euch die Dokumentation anschaut,
+seht Ihr, dass jQuery darauf hinweist,
+
+14
+00:00:33,210 --> 00:00:36,130
+dass die "keypress"-Funktion
+eigentlich eine Abkürzung für
+
+15
+00:00:36,130 --> 00:00:39,030
+die "on"-Methode ist, wobei "keypress"
+als Argument übergeben wird.
+
+16
+00:00:40,110 --> 00:00:41,830
+Es ist wichtig zu wissen, dass es
+
+17
+00:00:41,830 --> 00:00:44,020
+nicht für jede Art von Event
+eine vereinfachende Funktion gibt.
+
+18
+00:00:44,020 --> 00:00:48,192
+Schaut doch einmal auf der API-Webseite, 
+welche Methoden es gibt.
+
+19
+00:00:48,215 --> 00:00:54,865
+In den Dozentenbemerkungen habe ich 
+zu der entsprechenden Seite verlinkt.
+

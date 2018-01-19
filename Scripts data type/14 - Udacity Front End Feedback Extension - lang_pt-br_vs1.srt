@@ -1,0 +1,110 @@
+1
+00:00:00,670 --> 00:00:03,910
+Achamos muito importante que
+você receba feedback sobre o código, enquanto
+
+2
+00:00:03,910 --> 00:00:08,690
+o escreve, por isso criamos a extensão do Chrome
+Udacity Front-end Feedback,
+
+3
+00:00:08,690 --> 00:00:12,570
+para dar feedback nos testes,
+conforme você trabalha.
+
+4
+00:00:12,570 --> 00:00:15,330
+Para configurá-la, visite a Chrome
+Web Store e procure a
+
+5
+00:00:15,330 --> 00:00:17,590
+extensão de feedback da Udacity.
+
+6
+00:00:17,590 --> 00:00:19,700
+Também há um link para ela abaixo.
+
+7
+00:00:19,700 --> 00:00:20,810
+Quando encontrá-la,
+
+8
+00:00:20,810 --> 00:00:24,240
+baixe a extensão para adicioná-la
+ao Chrome.
+
+9
+00:00:24,240 --> 00:00:26,710
+Depois, você vai querer editar
+as configurações da extensão
+
+10
+00:00:26,710 --> 00:00:31,180
+clicando com o botão direito do ícone de extensão e
+selecionando Manage extensions.
+
+11
+00:00:31,180 --> 00:00:33,000
+Verifique se a extensão está habilitada e
+
+12
+00:00:33,000 --> 00:00:35,970
+se você marcou a configuração
+para permitir acesso às URLs do arquivo.
+
+13
+00:00:35,970 --> 00:00:36,540
+Porém,
+
+14
+00:00:36,540 --> 00:00:39,780
+se você não selecionar essa opção,
+não poderá usar de imediato a
+
+15
+00:00:39,780 --> 00:00:41,630
+extensão localmente.
+
+16
+00:00:41,630 --> 00:00:43,310
+Depois de configurar a extensão,
+
+17
+00:00:43,310 --> 00:00:46,180
+abra um teste
+que a utilize.
+
+18
+00:00:46,180 --> 00:00:49,830
+Se o teste não aparecer carregado no canto superior
+direito do navegador,
+
+19
+00:00:49,830 --> 00:00:53,950
+clique no ícone da extensão e
+Allow feedback on this domain.
+
+20
+00:00:55,080 --> 00:00:59,180
+Se o teste não aparecer depois disso,
+tente atualizá-lo.
+
+21
+00:00:59,180 --> 00:01:00,240
+E é isso.
+
+22
+00:01:00,240 --> 00:01:03,000
+Se você seguiu essas etapas,
+está pronto para começar a usar a extensão
+
+23
+00:01:03,000 --> 00:01:06,310
+do Chrome Udacity Front-end
+Feedback.
+
+24
+00:01:06,310 --> 00:01:06,810
+Boa sorte.

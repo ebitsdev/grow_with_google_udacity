@@ -1,0 +1,75 @@
+1
+00:00:00,550 --> 00:00:03,719
+Selecionar por tag não ajuda muito.
+
+2
+00:00:03,719 --> 00:00:08,140
+Se você acha que precisa usar o jQuery para selecionar tudo de uma tag
+
+3
+00:00:08,140 --> 00:00:11,060
+específica em uma página, é bom repensar o que está fazendo,
+
+4
+00:00:11,060 --> 00:00:14,310
+porque deve ter um jeito melhor de conseguir o que você está tentando fazer.
+
+5
+00:00:15,440 --> 00:00:19,880
+Em geral, só queremos selecionar um punhado de elementos DOM para fazer mudanças.
+
+6
+00:00:19,880 --> 00:00:23,530
+As classes têm um seletor mais específico que é muito mais
+
+7
+00:00:23,530 --> 00:00:25,470
+aplicável ao mundo real.
+
+8
+00:00:25,470 --> 00:00:27,810
+Para selecionar todos os elementos de um nome de classe,
+
+9
+00:00:27,810 --> 00:00:32,900
+basta passar o nome com um ponto na frente como uma string para o objeto jQuery.
+
+10
+00:00:32,900 --> 00:00:36,990
+Por exemplo, se quiser selecionar todos os elementos da classe green, você pode
+
+11
+00:00:36,990 --> 00:00:41,320
+chamar o objeto jQuery e passar uma string com um ponto seguido por green.
+
+12
+00:00:42,390 --> 00:00:46,640
+Essa string que você está passando se parece muito com um seletor CSS,
+
+13
+00:00:46,640 --> 00:00:48,090
+porque é mesmo.
+
+14
+00:00:48,090 --> 00:00:52,820
+Na verdade, qualquer seletor CSS válido também é válido no jQuery.
+
+15
+00:00:52,820 --> 00:00:55,800
+Para este teste, você vai trabalhar com a página de exemplo outra vez.
+
+16
+00:00:55,800 --> 00:00:59,820
+Quero que você selecione todos os elementos da classe article-item e
+
+17
+00:00:59,820 --> 00:01:02,090
+os salve na variável articles.
+
+18
+00:01:02,090 --> 00:01:05,560
+Mais uma vez, você pode verificar seu trabalho usando console.log para ver a
+
+19
+00:01:05,560 --> 00:01:06,370
+coleção jQuery resultante.
