@@ -1,0 +1,22 @@
+1
+00:00:00,490 --> 00:00:03,410
+Quero que você observe
+estas três páginas da Web.
+
+2
+00:00:03,410 --> 00:00:05,820
+Uma das páginas da Web tem o CSS aplicado a ela.
+
+3
+00:00:05,820 --> 00:00:08,700
+E as outras duas
+páginas estão sem estilo.
+
+4
+00:00:08,700 --> 00:00:13,710
+Observando as imagens, que página da Web
+você acha que tem CSS aplicado a ela?
+
+5
+00:00:13,710 --> 00:00:15,450
+Selecione uma das opções abaixo.

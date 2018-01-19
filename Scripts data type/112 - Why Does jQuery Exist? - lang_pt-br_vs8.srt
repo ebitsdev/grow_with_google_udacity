@@ -1,0 +1,123 @@
+1
+00:00:00,450 --> 00:00:03,280
+Você está olhando para a biblioteca jQuery.
+
+2
+00:00:03,280 --> 00:00:06,170
+Essa é a biblioteca inteira.
+
+3
+00:00:06,170 --> 00:00:09,340
+Observe que, na verdade, é apenas JavaScript.
+
+4
+00:00:09,340 --> 00:00:10,500
+Vou repetir isso.
+
+5
+00:00:10,500 --> 00:00:13,680
+jQuery é apenas uma biblioteca JavaScript.
+
+6
+00:00:13,680 --> 00:00:17,060
+Não se trata de uma linguagem por si só, nem é essencialmente diferente
+
+7
+00:00:17,060 --> 00:00:19,880
+das milhares de outras bibliotecas JavaScript disponíveis.
+
+8
+00:00:21,550 --> 00:00:24,960
+Não há nada especial aqui que você não possa desenvolver sozinho.
+
+9
+00:00:24,960 --> 00:00:25,850
+Se tivéssemos uma semana,
+
+10
+00:00:25,850 --> 00:00:29,230
+eu poderia apostar que você recriaria um monte de funcionalidades do jQuery.
+
+11
+00:00:30,620 --> 00:00:32,759
+Veja esse método, isFunction.
+
+12
+00:00:32,759 --> 00:00:34,402
+Você vê isso?
+
+13
+00:00:34,402 --> 00:00:37,940
+Veja, ele retornará true se o objeto passado para ele
+
+14
+00:00:37,940 --> 00:00:39,310
+tiver um tipo de função.
+
+15
+00:00:40,690 --> 00:00:42,620
+Se você recriasse o jQuery,
+
+16
+00:00:42,620 --> 00:00:46,380
+sua biblioteca provavelmente não seria tão eficiente quanto o jQuery.
+
+17
+00:00:46,380 --> 00:00:49,340
+Mas você pode recriar facilmente os mesmos métodos e funcionalidades
+
+18
+00:00:49,340 --> 00:00:51,890
+que o jQuery oferece.
+
+19
+00:00:51,890 --> 00:00:55,020
+O jQuery é amplamente usado porque manipular o DOM com
+
+20
+00:00:55,020 --> 00:00:58,220
+o Vanilla JavaScript nem sempre é fácil.
+
+21
+00:00:58,220 --> 00:01:01,240
+Por exemplo, inserir um novo nó de DOM com JavaScript significa
+
+22
+00:01:01,240 --> 00:01:04,319
+criar um elemento, definir atributos e
+
+23
+00:01:04,319 --> 00:01:10,400
+conteúdo do novo nó, selecionar o futuro pai do novo nó e,
+
+24
+00:01:10,400 --> 00:01:13,770
+por fim, inserir o novo nó como um filho do nó pai.
+
+25
+00:01:13,770 --> 00:01:18,030
+Mas com o jQuery, tudo isso é facilitado em uma função simples.
+
+26
+00:01:19,340 --> 00:01:21,400
+E ninguém quer se preocupar com o desenvolvimento de sites para
+
+27
+00:01:21,400 --> 00:01:24,890
+diferentes navegadores quando tudo o que você quer é se concentrar na
+
+28
+00:01:24,890 --> 00:01:28,460
+criação de um site com uma experiência do usuário fantástica.
+
+29
+00:01:28,460 --> 00:01:33,560
+O jQuery existe para que você possa se concentrar nessa experiência, não nas peculiaridades do navegador.
+
+30
+00:01:33,560 --> 00:01:36,220
+Mas antes de começar a escrever funções do jQuery,
+
+31
+00:01:36,220 --> 00:01:37,870
+quero que você dê uma olhada no que por trás do jQuery.

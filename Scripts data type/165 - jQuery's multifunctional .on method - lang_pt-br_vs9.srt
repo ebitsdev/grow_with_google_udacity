@@ -1,0 +1,33 @@
+1
+00:00:00,310 --> 00:00:03,080
+Eu mostrei o passo a passo do uso
+do método on() do jQuery.
+
+2
+00:00:03,080 --> 00:00:06,010
+E você passou um tempo pesquisando
+os métodos de conveniência do jQuery
+
+3
+00:00:06,010 --> 00:00:08,050
+que são apenas atalhos
+para o método on().
+
+4
+00:00:08,050 --> 00:00:10,908
+Inesperadamente, ainda há outra
+maneira de configurar um observador de
+
+5
+00:00:10,908 --> 00:00:12,490
+eventos com o método on() do jQuery.
+
+6
+00:00:12,490 --> 00:00:15,100
+Na próxima seção,
+você aprenderá sobre delegação de eventos,
+
+7
+00:00:15,100 --> 00:00:18,880
+onde o jQuery observa um elemento pai
+em busca de eventos nos filhos.

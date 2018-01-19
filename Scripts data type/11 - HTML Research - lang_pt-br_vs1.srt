@@ -1,0 +1,67 @@
+1
+00:00:00,690 --> 00:00:04,920
+Neste teste, quero que você
+faça um pouco de pesquisa.
+
+2
+00:00:04,920 --> 00:00:09,320
+Estou dando um link, abaixo,
+para o Mozilla Developer Network.
+
+3
+00:00:09,320 --> 00:00:14,480
+Ele tem uma referência de elemento HTML
+que é uma ferramenta superútil para
+
+4
+00:00:14,480 --> 00:00:15,510
+todo desenvolvedor Web.
+
+5
+00:00:15,510 --> 00:00:19,960
+De fato, recomendo usar o Mozilla
+Developer Network sempre que quiser
+
+6
+00:00:19,960 --> 00:00:21,030
+pesquisar alguma coisa.
+
+7
+00:00:21,030 --> 00:00:22,650
+Agora, quero que você pratique.
+
+8
+00:00:22,650 --> 00:00:25,460
+Vou te dar este HTML.
+
+9
+00:00:25,460 --> 00:00:29,410
+Quero que você pesquisa negrito
+em ênfase, bem aqui, no seu navegador.
+
+10
+00:00:29,410 --> 00:00:33,785
+Basta usar a função Find (Localizar),
+que pode ser Cmd f ou Ctrl f.
+
+11
+00:00:33,785 --> 00:00:37,365
+E, quando descobrir como colocar
+negrito ou
+
+12
+00:00:37,365 --> 00:00:39,755
+ênfase, faça isso bem aqui.
+
+13
+00:00:39,755 --> 00:00:43,695
+Coloque este texto em negrito
+e, depois, enfatize este texto.
+
+14
+00:00:43,695 --> 00:00:44,565
+Boa sorte.
+
+15
+00:00:44,565 --> 00:00:45,265
+Eu sei que você consegue.

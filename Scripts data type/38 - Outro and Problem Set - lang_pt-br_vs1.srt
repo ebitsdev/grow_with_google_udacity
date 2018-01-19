@@ -1,0 +1,49 @@
+1
+00:00:00,690 --> 00:00:04,430
+Um ótimo trabalho na próxima parte desta
+lição é um conjunto de problemas
+
+2
+00:00:04,430 --> 00:00:07,550
+que vai desafiar você a explorar
+diferentes propriedades CSS e
+
+3
+00:00:07,550 --> 00:00:09,370
+a adicionar estilo aos seus sites.
+
+4
+00:00:09,370 --> 00:00:10,320
+Se tiver dificuldade,
+
+5
+00:00:10,320 --> 00:00:13,940
+poderá abrir as ferramentas do
+desenvolvedor a qualquer hora para obter ajuda.
+
+6
+00:00:13,940 --> 00:00:14,630
+&gt;&gt; Tudo bem, James.
+
+7
+00:00:14,630 --> 00:00:16,700
+Obrigado por
+vir e falar sobre o CSS.
+
+8
+00:00:16,700 --> 00:00:17,770
+&gt;&gt; Claro, sem problema.
+
+9
+00:00:17,770 --> 00:00:20,760
+&gt;&gt; Depois que você terminar o conjunto de problemas,
+vai configurar algumas ferramentas que
+
+10
+00:00:20,760 --> 00:00:23,440
+o ajudarão a escrever códigos com mais rapidez
+e eficiência.
+
+11
+00:00:23,440 --> 00:00:24,540
+Divirta-se com o conjunto de problemas.

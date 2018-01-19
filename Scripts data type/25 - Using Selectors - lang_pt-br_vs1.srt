@@ -1,0 +1,40 @@
+1
+00:00:00,810 --> 00:00:02,980
+As classes são, de longe, o tipo de seletor mais útil e
+
+2
+00:00:02,980 --> 00:00:05,970
+versátil
+que você pode usar.
+
+3
+00:00:05,970 --> 00:00:10,510
+Neste exercício, quero que você
+me diga que HTML corresponderia
+
+4
+00:00:10,510 --> 00:00:12,650
+ao seletor tipo Classe a seguir.
+
+5
+00:00:12,650 --> 00:00:16,700
+À esquerda, escrevi um conjunto
+de regras CSS que usa um seletor
+
+6
+00:00:16,700 --> 00:00:20,550
+de classe "right" e altera
+a propriedade "text-align" para "right".
+
+7
+00:00:21,550 --> 00:00:25,650
+À direita, listei diferentes elementos
+HTML que correspondem ou
+
+8
+00:00:25,650 --> 00:00:27,460
+não ao CSS especificado.
+
+9
+00:00:28,700 --> 00:00:29,760
+Marque todas as opções aplicáveis.

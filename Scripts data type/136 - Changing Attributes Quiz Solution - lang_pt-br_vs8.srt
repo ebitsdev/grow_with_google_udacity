@@ -1,0 +1,47 @@
+1
+00:00:00,560 --> 00:00:05,689
+Começarei selecionando navList passando a classe .nav-list.
+
+2
+00:00:05,689 --> 00:00:08,450
+Quero o primeiro item de navList, então
+
+3
+00:00:08,450 --> 00:00:12,430
+uso children para obter os filhos de navList e
+
+4
+00:00:12,430 --> 00:00:15,260
+depois uso o método .first para garantir que obterei o primeiro.
+
+5
+00:00:16,309 --> 00:00:21,390
+Depois disso, quero o link no primeiro, então encontro a tag a dentro dele.
+
+6
+00:00:21,390 --> 00:00:23,470
+Daqui para frente, é muito simples.
+
+7
+00:00:23,470 --> 00:00:29,460
+Uso o método .attr para mudar o atributo href e defini-lo para número 1.
+
+8
+00:00:29,460 --> 00:00:34,110
+Depois de clicar em Test Run, posso ver que o item número 1 agora tem um link associado a
+
+9
+00:00:34,110 --> 00:00:35,600
+ele, o que é muito legal.
+
+10
+00:00:35,600 --> 00:00:37,400
+Vamos apenas garantir que seja o certo.
+
+11
+00:00:37,400 --> 00:00:42,360
+Abrirei as Ferramentas do desenvolvedor ao inspecionar esse elemento.
+
+12
+00:00:42,360 --> 00:00:45,060
+E podemos ver que sim, essa tag a tem um href de numero 1.

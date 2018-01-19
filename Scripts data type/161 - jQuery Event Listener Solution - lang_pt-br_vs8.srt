@@ -1,0 +1,40 @@
+1
+00:00:00,370 --> 00:00:01,450
+Vamos seguir em ordem.
+
+2
+00:00:01,450 --> 00:00:04,840
+Primeiro precisamos selecionar
+o alvo usando o jQuery,
+
+3
+00:00:04,840 --> 00:00:07,330
+depois queremos adicionar um
+observador de eventos para o evento click.
+
+4
+00:00:09,010 --> 00:00:10,760
+Aí, quando se clica no botão,
+
+5
+00:00:10,760 --> 00:00:13,600
+a função de callback precisa
+executar duas ações.
+
+6
+00:00:13,600 --> 00:00:14,880
+A primeira é remover o botão
+
+7
+00:00:14,880 --> 00:00:18,480
+e a segunda é adicionar
+a classe ao elemento body.
+
+8
+00:00:20,520 --> 00:00:23,344
+Agora, quando se clica no botão,
+ele desaparece e
+
+9
+00:00:23,344 --> 00:00:24,918
+é exibida uma mensagem de êxito.

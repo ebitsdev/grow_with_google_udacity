@@ -1,0 +1,274 @@
+1
+00:00:00,520 --> 00:00:03,480
+Você pode adicionar cor aos
+seus sites usando o CSS.
+
+2
+00:00:03,480 --> 00:00:08,070
+Mas, para fazer isso, primeiro
+você precisa entender como a cor é codificada.
+
+3
+00:00:08,070 --> 00:00:10,446
+Para começar, a cor é composta de luz.
+
+4
+00:00:10,446 --> 00:00:15,020
+Todas as luzes, inclusive a que é
+emitida direto da tela,
+
+5
+00:00:15,020 --> 00:00:19,760
+é composta de uma determinada proporção
+de luz vermelha, verde e azul.
+
+6
+00:00:19,760 --> 00:00:24,050
+A quantidade de luz vermelha, verde e azul
+é o que determina a cor que você vê.
+
+7
+00:00:24,050 --> 00:00:26,173
+Por exemplo, a combinação de luz vermelha e
+
+8
+00:00:26,173 --> 00:00:30,056
+verde com a ausência de luz azul
+é o que cria a cor amarela.
+
+9
+00:00:30,056 --> 00:00:31,521
+A combinação de luz verde e
+
+10
+00:00:31,521 --> 00:00:35,072
+azul com a ausência de luz vermelha
+é o que cria o ciano.
+
+11
+00:00:35,072 --> 00:00:37,730
+Existem variações incontáveis
+de combinações.
+
+12
+00:00:37,730 --> 00:00:41,270
+As diferentes combinações de luzes vermelha,
+verde e
+
+13
+00:00:41,270 --> 00:00:46,120
+azul compõem até 16.777.216 cores.
+
+14
+00:00:46,120 --> 00:00:47,550
+Há muitas cores.
+
+15
+00:00:47,550 --> 00:00:52,590
+Ao escrever o CSS, expresse a cor
+especificando a quantidade de luz vermelha, verde
+
+16
+00:00:52,590 --> 00:00:54,520
+e azul que deve estar presente.
+
+17
+00:00:54,520 --> 00:00:56,640
+Isso pode ser feito de duas maneiras.
+
+18
+00:00:56,640 --> 00:01:01,450
+Na primeira, normalmente chamada
+de RGB, cada porção de luz vermelha,
+
+19
+00:01:01,450 --> 00:01:06,290
+verde e azul é escrita como
+um número decimal entre 0 e 255.
+
+20
+00:01:06,290 --> 00:01:10,011
+0 é o menor valor ou
+nenhuma presença de luz e
+
+21
+00:01:10,011 --> 00:01:14,866
+255 é o valor mais alto ou
+100% de presença de luz.
+
+22
+00:01:14,866 --> 00:01:20,127
+Por exemplo, se eu quisesse mudar
+a cor de fundo desta página para
+
+23
+00:01:20,127 --> 00:01:26,608
+magenta, eu escreveria
+background-color: rgb (255, 0, 255).
+
+24
+00:01:26,608 --> 00:01:29,431
+O primeiro 255 especifica a luz vermelha.
+
+25
+00:01:29,431 --> 00:01:31,809
+O 0 especifica a luz verde.
+
+26
+00:01:31,809 --> 00:01:35,090
+E o segundo 255 especifica a luz azul.
+
+27
+00:01:35,090 --> 00:01:38,977
+A combinação desses
+valores produz a magenta.
+
+28
+00:01:38,977 --> 00:01:42,660
+Na segunda maneira,
+chamada de hexadecimal ou hex para
+
+29
+00:01:42,660 --> 00:01:45,268
+abreviar, cada porção de luz vermelha, verde e
+
+30
+00:01:45,268 --> 00:01:50,279
+azul é escrita como um número
+hexadecimal entre os valores 00 e FF.
+
+31
+00:01:50,279 --> 00:01:56,030
+00, que é 0 em decimal, e
+FF, que é 255 em decimal.
+
+32
+00:01:57,650 --> 00:02:01,024
+Caso você não saiba como
+funciona o hexadecimal, verifique abaixo
+
+33
+00:02:01,024 --> 00:02:02,097
+alguns links úteis.
+
+34
+00:02:02,097 --> 00:02:07,956
+Usando o mesmo exemplo da magenta,
+vou escrever background-color,
+
+35
+00:02:07,956 --> 00:02:13,656
+uma cerquilha, isto informa o navegador
+que estou usando um código hexadecimal, e depois ff00ff.
+
+36
+00:02:13,656 --> 00:02:19,499
+O primeiro ff, que é realmente apenas
+255 em decimal, especifica a luz vermelha.
+
+37
+00:02:19,499 --> 00:02:24,294
+00, que é apenas 0 em decimal,
+especifica a luz verde.
+
+38
+00:02:24,294 --> 00:02:29,780
+E o segundo ff, que é novamente 255
+em decimal, especifica a luz azul.
+
+39
+00:02:30,840 --> 00:02:33,160
+Essa codificação também produz
+a cor magenta.
+
+40
+00:02:34,310 --> 00:02:36,790
+As cores nem sempre são
+tão simples como as cores primárias
+
+41
+00:02:36,790 --> 00:02:38,320
+e secundárias.
+
+42
+00:02:38,320 --> 00:02:39,120
+Como eu disse,
+
+43
+00:02:39,120 --> 00:02:43,160
+há milhões de cores diferentes
+que você pode expressar usando o CSS.
+
+44
+00:02:43,160 --> 00:02:47,220
+Em geral, pode ser útil usar
+um seletor de cores para obter a sombra,
+
+45
+00:02:47,220 --> 00:02:49,870
+a coloração e a tonalidade
+da cor que está tentando usar.
+
+46
+00:02:51,030 --> 00:02:54,380
+É provável que você já tenha visto um seletor de cores
+caso já tenha usado uma ferramenta de design
+
+47
+00:02:54,380 --> 00:02:55,610
+ou gráficos.
+
+48
+00:02:55,610 --> 00:02:59,434
+Mas você sabia que a maioria dos navegadores
+tem seletor de cores próprio
+
+49
+00:02:59,434 --> 00:03:00,610
+incorporado?
+
+50
+00:03:00,610 --> 00:03:01,710
+Confira.
+
+51
+00:03:01,710 --> 00:03:04,890
+Aqui eu tenho o Google Chrome aberto,
+e estou olhando o site da BBC.
+
+52
+00:03:05,940 --> 00:03:09,380
+Se eu inspecionar a barra de navegação e
+tentar alterar a cor de fundo,
+
+53
+00:03:11,080 --> 00:03:13,460
+você verá que ao clicar
+no quadrado colorido,
+
+54
+00:03:13,460 --> 00:03:16,080
+eu abro o seletor de cores do Google Chrome.
+
+55
+00:03:16,080 --> 00:03:17,320
+Com o seletor de cores,
+
+56
+00:03:17,320 --> 00:03:20,730
+eu posso usar o conta-gotas para selecionar
+uma outra cor na tela.
+
+57
+00:03:20,730 --> 00:03:23,130
+Eu posso alterar a matiz
+arrastando o deslizador.
+
+58
+00:03:24,200 --> 00:03:27,762
+Posso selecionar uma cor e
+alternar entre as codificações hexadecimal e
+
+59
+00:03:27,762 --> 00:03:29,290
+RGB da cor.

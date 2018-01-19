@@ -1,0 +1,87 @@
+1
+00:00:00,200 --> 00:00:03,450
+Usted ha estado configurando evento
+oyentes que utilizan el método de jQuery sucesivamente.
+
+2
+00:00:03,450 --> 00:00:05,840
+Ahora bien, esto funciona muy bien, pero
+
+3
+00:00:05,840 --> 00:00:08,600
+jQuery también tiene algo de conveniencia
+métodos que se pueden utilizar.
+
+4
+00:00:08,600 --> 00:00:09,930
+Echemos un vistazo.
+
+5
+00:00:09,930 --> 00:00:12,460
+Así es como nos pondríamos
+hasta un detector de eventos para
+
+6
+00:00:12,460 --> 00:00:15,730
+una pulsación prolongada en todos los campos de entrada.
+
+7
+00:00:15,730 --> 00:00:20,310
+Podríamos escribir esto usando jQuery de
+método de conveniencia mediante la sustitución de la de
+
+8
+00:00:20,310 --> 00:00:21,230
+con la pulsación de tecla.
+
+9
+00:00:22,390 --> 00:00:25,470
+Y ahora no tenemos que especificar
+el tipo de evento, ya la conveniencia
+
+10
+00:00:25,470 --> 00:00:26,830
+método implica ella.
+
+11
+00:00:26,830 --> 00:00:27,870
+¿Ves?
+
+12
+00:00:27,870 --> 00:00:28,440
+Mucho mas bonito
+
+13
+00:00:29,570 --> 00:00:33,210
+En cuanto a la documentación de pulsación de tecla,
+verás jQuery señalan
+
+14
+00:00:33,210 --> 00:00:36,130
+que la función de pulsación
+es en realidad un acceso directo para
+
+15
+00:00:36,130 --> 00:00:39,030
+el sobre el método,
+pasando pulsación como argumento
+
+16
+00:00:40,110 --> 00:00:42,450
+Es importante saber que hay
+no son métodos de conveniencia para
+
+17
+00:00:42,450 --> 00:00:44,020
+cada tipo de evento.
+
+18
+00:00:44,020 --> 00:00:48,192
+Tome un minuto para ver qué métodos
+están disponibles en el sitio de la API de jQuery.
+
+19
+00:00:48,192 --> 00:00:50,460
+He vinculado a la apropiada
+página en las notas del instructor
+

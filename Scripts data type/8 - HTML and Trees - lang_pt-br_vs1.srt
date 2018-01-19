@@ -1,0 +1,167 @@
+1
+00:00:00,400 --> 00:00:04,270
+Ok, agora você já sabe
+como criar um elemento.
+
+2
+00:00:04,278 --> 00:00:07,798
+Como você chega
+daqui até aqui?
+
+3
+00:00:08,050 --> 00:00:10,130
+A resposta é conteúdo.
+
+4
+00:00:10,400 --> 00:00:15,240
+Como se vê, elementos podem ser
+colocados dentro de outros elementos.
+
+5
+00:00:15,575 --> 00:00:19,710
+Conteúdo não é apenas texto;
+consiste também em outros elementos.
+
+6
+00:00:20,025 --> 00:00:24,420
+Esta é uma nova tag; é um div
+que significa "divisão".
+
+7
+00:00:24,625 --> 00:00:28,780
+Um elemento de divisão ou
+"div" é usado para agrupar porções
+
+8
+00:00:28,780 --> 00:00:31,675
+de conteúdo. Você aprenderá
+muito mais
+
+9
+00:00:31,675 --> 00:00:33,088
+sobre isso depois.
+
+10
+00:00:33,325 --> 00:00:37,700
+De qualquer forma, dentro do div
+há um elemento h1.
+
+11
+00:00:38,100 --> 00:00:41,970
+Este h1 é o filho do div.
+
+12
+00:00:42,225 --> 00:00:45,840
+Neste ponto, vou reorganizar
+para ficar um pouco mais claro.
+
+13
+00:00:46,100 --> 00:00:49,725
+Coloquei o h1 em sua própria linha
+, deixando-o entre os divs.
+
+14
+00:00:49,875 --> 00:00:55,380
+Com isso, fica bem claro que
+o h1 pertence a seus divs pai.
+
+15
+00:00:55,675 --> 00:00:58,400
+Você pode ver que o h1 está
+entre as tags div
+
+16
+00:00:58,400 --> 00:01:00,425
+de abertura e fechamento.
+
+17
+00:01:00,575 --> 00:01:04,010
+Você vai precisar usar
+o mesmo formato ao escrever HTML.
+
+18
+00:01:04,300 --> 00:01:06,550
+Avançando, vou adicionar
+outro elemento à combinação.
+
+19
+00:01:07,225 --> 00:01:09,900
+Ok, pare por um segundo.
+
+20
+00:01:10,075 --> 00:01:14,170
+A seu ver, com que a árvore
+desse HTML se parece?
+
+21
+00:01:14,425 --> 00:01:15,790
+Qual é o pai?
+
+22
+00:01:16,025 --> 00:01:17,690
+Quais são os filhos?
+
+23
+00:01:17,875 --> 00:01:19,925
+Quais são os irmãos?
+
+24
+00:01:20,450 --> 00:01:23,225
+Ok, vou parar por um segundo
+para que você possa pensar.
+
+25
+00:01:28,625 --> 00:01:29,350
+Aqui está.
+
+26
+00:01:29,450 --> 00:01:33,725
+Você pode ver que o div é
+o pai do h1 e do p,
+
+27
+00:01:33,843 --> 00:01:36,998
+e que o h1 e p
+são irmãos.
+
+28
+00:01:37,275 --> 00:01:40,375
+Para ser claro, este é
+o código que você escreve
+
+29
+00:01:40,450 --> 00:01:43,650
+e é assim
+que refletimos sobre ele.
+
+30
+00:01:43,850 --> 00:01:44,925
+Como continuo dizendo,
+
+31
+00:01:45,000 --> 00:01:48,325
+depois será muito útil
+saber como seu código
+
+32
+00:01:48,375 --> 00:01:49,725
+ficou desse jeito.
+
+33
+00:01:49,850 --> 00:01:52,500
+Claro, já que você está escrevendo
+seu código, as árvores
+
+34
+00:01:52,500 --> 00:01:53,800
+que você cria com HTML
+
+35
+00:01:53,900 --> 00:01:57,400
+poderão ser ampliadas ou aprofundadas
+conforme a necessidade.
+
+36
+00:01:57,500 --> 00:01:59,275
+Isso não importa.
+

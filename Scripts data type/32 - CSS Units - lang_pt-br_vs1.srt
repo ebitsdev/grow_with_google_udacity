@@ -1,0 +1,198 @@
+1
+00:00:00,158 --> 00:00:02,590
+Você viu algumas
+propriedades CSS diferentes.
+
+2
+00:00:02,590 --> 00:00:06,260
+E talvez tenha notado
+alguns pontos comuns entre elas.
+
+3
+00:00:06,260 --> 00:00:09,143
+Por exemplo,
+propriedades como width, height
+
+4
+00:00:09,168 --> 00:00:13,100
+e padding esperam valores
+que expressam comprimento.
+
+5
+00:00:13,100 --> 00:00:15,070
+E como as medições reais,
+
+6
+00:00:15,070 --> 00:00:18,410
+essas propriedades 
+usam unidades para descrever o comprimento.
+
+7
+00:00:18,410 --> 00:00:22,608
+Na realidade, usamos unidades como metros,
+milhas, pés
+
+8
+00:00:22,633 --> 00:00:25,050
+e centímetros para descrever o comprimento.
+
+9
+00:00:25,050 --> 00:00:29,070
+Mas no CSS, usamos unidades como pixels
+e porcentagens.
+
+10
+00:00:29,225 --> 00:00:32,100
+As unidades CSS, como pixels e porcentagens,
+
+11
+00:00:32,100 --> 00:00:37,699
+podem ser categorizadas em dois grupos distintos:
+unidades absolutas e relativas.
+
+12
+00:00:38,358 --> 00:00:41,500
+Unidades absolutas são
+unidades de medida fixas.
+
+13
+00:00:41,500 --> 00:00:46,250
+Unidades relativas são uma 
+comparação com outra propriedade vinculada.
+
+14
+00:00:46,250 --> 00:00:48,500
+Considere este exemplo de uma estrada:
+
+15
+00:00:48,500 --> 00:00:51,200
+Se eu estiver descrevendo sua largura
+em unidades absolutas,
+
+16
+00:00:51,200 --> 00:00:55,520
+poderia dizer que
+a estrada tem 7,2 metros de largura.
+
+17
+00:00:55,520 --> 00:00:58,670
+Mas se eu estiver descrevendo 
+sua largura em unidades relativas,
+
+18
+00:00:58,670 --> 00:01:02,330
+posso dizer que tem o
+comprimento de dois carros de largura.
+
+19
+00:01:02,330 --> 00:01:05,577
+O comprimento de um carro é relativo 
+ao comprimento médio de um carro
+
+20
+00:01:05,602 --> 00:01:07,120
+e pode mudar com o tempo.
+
+21
+00:01:07,120 --> 00:01:09,310
+Assim, como isso fica no CSS?
+
+22
+00:01:09,310 --> 00:01:10,750
+Neste exemplo,
+
+23
+00:01:10,750 --> 00:01:14,898
+temos uma propriedade width
+que recebe o valor de 400 pixels.
+
+24
+00:01:15,136 --> 00:01:19,410
+400 é o nosso numérico,
+e pixels e nossa unidade de medida.
+
+25
+00:01:19,410 --> 00:01:22,324
+Pixels é uma forma absoluta de 
+medição que corresponde
+
+26
+00:01:22,349 --> 00:01:25,280
+a um pixel de dispositivo físico 
+na sua tela.
+
+27
+00:01:25,280 --> 00:01:28,940
+As telas modernas
+de dispositivos móveis, tablets,
+
+28
+00:01:28,940 --> 00:01:33,790
+laptops, desktops ou TVs
+são constituídas por milhões de pixels.
+
+29
+00:01:33,790 --> 00:01:36,650
+Usamos esses pixels para definir
+os links exatos que queremos
+
+30
+00:01:36,650 --> 00:01:38,130
+passar às propriedades.
+
+31
+00:01:38,130 --> 00:01:41,730
+Mas os pixels não são a única unidade
+de medida usada no CSS.
+
+32
+00:01:41,730 --> 00:01:43,740
+Há muitas mais.
+
+33
+00:01:43,740 --> 00:01:46,570
+Para unidades absolutas, os pixels
+são a mais comum.
+
+34
+00:01:46,570 --> 00:01:50,939
+Mas há outras, como:
+milímetros, polegadas e centímetros,
+
+35
+00:01:50,964 --> 00:01:53,345
+que raramente são usadas.
+
+36
+00:01:53,370 --> 00:01:56,217
+Para unidades relativas, já temos
+as porcentagens,
+
+37
+00:01:56,242 --> 00:02:00,660
+mas há outras, como ems,
+largura e altura da janela de exibição.
+
+38
+00:02:00,660 --> 00:02:03,120
+As porcentagens são a unidade
+relativa mais comum.
+
+39
+00:02:03,120 --> 00:02:05,430
+Porém, elas não serão usadas
+por algumas lições.
+
+40
+00:02:05,430 --> 00:02:09,400
+As unidades relativas serão mais usadas quando 
+você começar a estudar o design responsivo.
+
+41
+00:02:09,400 --> 00:02:11,160
+Por hora, vamos ficar com os pixels.
+
+42
+00:02:11,160 --> 00:02:15,100
+Para obter uma lista completa de unidades, consulte
+uma das referências de CSS no texto abaixo.

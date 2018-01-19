@@ -1,0 +1,18 @@
+1
+00:00:00,066 --> 00:00:02,961
+Adesso che hai studiato i docs di jQuery,
+
+2
+00:00:02,961 --> 00:00:06,647
+quale tra i seguenti non è 
+un shortcut per un method pair?
+
+3
+00:00:06,647 --> 00:00:10,562
+Per esempio, se il metodo 
+keyup non è un shortcut per
+
+4
+00:00:10,562 --> 00:00:13,000
+keyup, allora seleziona quello.
+

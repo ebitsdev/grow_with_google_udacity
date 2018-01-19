@@ -1,0 +1,146 @@
+1
+00:00:00,206 --> 00:00:03,066
+Eventos en la vida real toman la
+forma de acciones específicas,
+
+2
+00:00:03,066 --> 00:00:05,005
+que se producen en un 
+tiempo específico
+
+3
+00:00:05,855 --> 00:00:07,475
+a veces, por ejemplo
+
+4
+00:00:07,475 --> 00:00:10,095
+en el juego de baloncesto,
+cuando la pelota pasa por el aro.
+
+5
+00:00:10,365 --> 00:00:13,005
+El equipo de rodaje obtiene puntos.
+
+6
+00:00:13,005 --> 00:00:16,135
+El evento es la bola
+que pasa por el aro.
+
+7
+00:00:16,135 --> 00:00:20,015
+La acción resultante es que
+el equipo de puntuación obtiene puntos.
+
+8
+00:00:20,015 --> 00:00:22,035
+El navegador tiene eventos también.
+
+9
+00:00:22,035 --> 00:00:25,705
+Cada vez que se mueve el puntero
+del ratón,haga clic en un enlace,
+
+10
+00:00:25,705 --> 00:00:29,105
+enviar un formulario, o no
+haga nada realmente,
+
+11
+00:00:29,105 --> 00:00:32,445
+su navegador hace un anuncio
+de la acción que acaba de tomar.
+
+12
+00:00:32,445 --> 00:00:35,245
+Quiero mostrar lo que el navegador
+está haciendo realmente.
+
+13
+00:00:35,655 --> 00:00:37,995
+Google Chrome ofrece
+una función muy útil.
+
+14
+00:00:37,995 --> 00:00:41,795
+La función monitorEvents, lo que hará
+le permite echar un vistazo bajo el capó
+
+15
+00:00:41,795 --> 00:00:44,745
+para ver eventos a medida
+que se llevan a cabo.
+
+16
+00:00:44,745 --> 00:00:49,065
+Se pasa a la función del elemento en la
+página que desea el reloj para eventos.
+
+17
+00:00:50,495 --> 00:00:55,115
+Ahora bien, esta función sólo se puede utilizar en
+la consola en las herramientas de Chrome Dev.
+
+18
+00:00:55,115 --> 00:00:58,475
+No trate de utilizar esta función
+en el archivo de JavaScript.
+
+19
+00:00:58,475 --> 00:01:00,955
+No va a funcionar, y
+provocará un error de referencia.
+
+20
+00:01:00,955 --> 00:01:05,455
+Con esa advertencia fuera del camino, y mucho
+voy a enseñar las votaciones que proporciona.
+
+21
+00:01:05,455 --> 00:01:09,765
+Así, en esta página, usted puede ver,
+Tengo un campo de texto simple.
+
+22
+00:01:10,195 --> 00:01:13,425
+En primer lugar voy a utilizar jQuery para 
+seleccionar todas las entradas de la página,
+
+23
+00:01:13,425 --> 00:01:15,875
+entonces voy a seleccionar sólo
+este primero aquí.
+
+24
+00:01:15,875 --> 00:01:19,125
+Luego me voy a llamar a
+la función y monitorEvents
+
+25
+00:01:19,125 --> 00:01:22,595
+y pasar a la celebración de variables
+en el primer campo de entrada.
+
+26
+00:01:22,595 --> 00:01:26,675
+Los monitorEvents funcionan como relojes
+y elemento para eventos, y registrar todos.
+
+27
+00:01:27,265 --> 00:01:32,295
+Por lo tanto, voy a interactuar con el campo de texto
+y ver cromo ingrese a cabo todos los eventos.
+
+28
+00:01:33,098 --> 00:01:36,048
+Como se puede ver usando
+la función monitorEvents,
+
+29
+00:01:36,048 --> 00:01:37,821
+se puede observar lo que están haciendo 
+los navegadores
+
+30
+00:01:37,821 --> 00:01:40,801
+cuando interactúa con los elementos de la página
+en manera diferente.

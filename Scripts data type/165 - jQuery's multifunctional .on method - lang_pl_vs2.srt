@@ -1,0 +1,33 @@
+1
+00:00:00,310 --> 00:00:03,080
+Wprowadzę Cię w używanie
+metody jQuery on()
+
+2
+00:00:03,080 --> 00:00:06,010
+Spędzisz nieco czasu poznając
+wygodę metod jQuery's
+
+3
+00:00:06,010 --> 00:00:08,050
+to jest po prostu skrót dla
+metody on()
+
+4
+00:00:08,050 --> 00:00:10,908
+O dziwo, jest inna
+sposób ustawienia detektora zdarzeń
+
+5
+00:00:10,908 --> 00:00:12,490
+motedy jQuery on()
+
+6
+00:00:12,490 --> 00:00:15,100
+W kolejnej sekcji,
+dowiesz się o delegowaniu
+
+7
+00:00:15,100 --> 00:00:18,880
+gdzie jQuery obserwuje jeden element nadrzędnego
+do wydarzeń na którykolwiek z jego dzieci.

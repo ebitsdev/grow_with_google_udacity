@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:02,635
+I want you to give it a shot.
+
+2
+00:00:02,635 --> 00:00:05,165
+Open up Google Chrome and visit your favorite website.
+
+3
+00:00:05,165 --> 00:00:09,315
+Once you're there, try inspecting the site to answer the following questions.
+
+4
+00:00:09,315 --> 00:00:13,280
+What HTML tags are used to build the content on the page?
+
+5
+00:00:13,280 --> 00:00:17,370
+Are the names of the ID and class attributes descriptive?
+
+6
+00:00:17,370 --> 00:00:19,510
+Does the website use tag ID,
+
+7
+00:00:19,510 --> 00:00:22,000
+or class selectors to style their elements?

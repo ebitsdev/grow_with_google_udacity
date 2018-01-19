@@ -1,0 +1,71 @@
+1
+00:00:00,480 --> 00:00:04,800
+Mudar as classes CSS do elemento DOM é muito útil.
+
+2
+00:00:04,800 --> 00:00:09,500
+Da mesma forma, às vezes você quer mudar os atributos dos elementos DOM também.
+
+3
+00:00:09,500 --> 00:00:13,200
+Dá uma olhada nesta lista não ordenada, no cabeçalho, na parte superior da página.
+
+4
+00:00:15,100 --> 00:00:18,390
+Cada elemento da lista tem uma tag incorporada.
+
+5
+00:00:18,390 --> 00:00:22,840
+Veja que o primeiro elemento, no começo da lista, está sem o href.
+
+6
+00:00:22,840 --> 00:00:27,632
+Quero que você use a jQuery para definir esse href como número 1, para corresponder aos hrefs
+
+7
+00:00:27,632 --> 00:00:30,740
+dos outros elementos.
+
+8
+00:00:30,740 --> 00:00:34,785
+Para adicionar um href, use o método .attr.
+
+9
+00:00:34,785 --> 00:00:40,040
+O .attr é interessante, pois tem duas assinaturas de método diferentes.
+
+10
+00:00:40,040 --> 00:00:41,230
+Com a primeira,
+
+11
+00:00:41,230 --> 00:00:45,362
+se você passar em uma string de um atributo, pode obter seu valor.
+
+12
+00:00:45,362 --> 00:00:49,890
+E com a outra, você define o valor de um atributo passando em
+
+13
+00:00:49,890 --> 00:00:51,300
+uma string do segundo parâmetro.
+
+14
+00:00:52,320 --> 00:00:53,668
+Esse é um padrão comum dos
+
+15
+00:00:53,668 --> 00:00:56,438
+métodos que interagem com os dados salvos em um elemento DOM.
+
+16
+00:00:56,438 --> 00:01:04,164
+Por isso, se você usar o .attr, poderá mudar o href desta tag para que fique igual ao número 1?
+
+17
+00:01:04,164 --> 00:01:05,250
+Veja esta dica.
+
+18
+00:01:05,250 --> 00:01:08,590
+Você pode precisar de outro método, como o .first, para ajudar.

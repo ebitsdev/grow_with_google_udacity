@@ -8,7 +8,7 @@ h3 {
     padding-left: 5px;
 }
 /* Styling image tag */
-.animal {
+.animal-image {
     width: 300px;
     margin: auto;
     display: block; /* To make the image display as block element for the margin property to work */
@@ -21,11 +21,11 @@ h3 {
     font-style: italic;
 }
 /* Styling animal list item labels */
-.label {
+.list-item-label {
     font-weight: bold;
 }
 /* Styling list item, remove the bullets */
-.item {
+.list-item {
     list-style: none;
 }
 /* Styling the inner div to create a border around the fun facts and list items on Zebras */
@@ -36,7 +36,7 @@ h3 {
     
 }
 /* Styling first div in the HTML document */
-.card {
+.animal-trading-card {
     width: 310px;
     border: solid 1px #c0c0c0;
     padding: 5px;
@@ -44,7 +44,7 @@ h3 {
     box-shadow: 3px 3px #c0c0c0;
 }
 /* Styling p and ul tags inside the inner div */
-div > div > p, ul {
+.animal-info > p, ul {
     padding: 5px;
 }
 /* Styling a (links) in the source HTML */

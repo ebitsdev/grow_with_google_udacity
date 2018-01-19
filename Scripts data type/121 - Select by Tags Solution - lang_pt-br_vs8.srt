@@ -1,0 +1,31 @@
+1
+00:00:00,300 --> 00:00:04,520
+Começarei com o objeto jQuery, o cifrão, e passarei a string,
+
+2
+00:00:04,520 --> 00:00:07,270
+li, para capturar uma coleção jQuery de todos os elementos de lista.
+
+3
+00:00:08,920 --> 00:00:13,490
+Verificarei minha resposta com console.log e abrirei o console.
+
+4
+00:00:13,490 --> 00:00:17,730
+Você pode ver muitos erros, como estamos vendo aqui, mas não se preocupe,
+
+5
+00:00:17,730 --> 00:00:20,240
+você pode muito bem ignorá-los.
+
+6
+00:00:20,240 --> 00:00:23,620
+Aqui em cima, podemos ver a coleção jQuery retornada da linha cinco do nosso
+
+7
+00:00:23,620 --> 00:00:26,190
+programa, que, está na linha cinco.
+
+8
+00:00:26,190 --> 00:00:30,030
+Então, eu a abro e podemos ver os elementos DOM que estávamos esperando.

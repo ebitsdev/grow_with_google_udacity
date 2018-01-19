@@ -1,0 +1,42 @@
+1
+00:00:00,050 --> 00:00:01,609
+He creado una página aquí y
+
+2
+00:00:01,609 --> 00:00:06,689
+Quiero que utiliza los eventos del monitor
+función para ver la imagen de eventos.
+
+3
+00:00:07,740 --> 00:00:10,790
+Revise el registro de que el monitor
+función de los acontecimientos produce
+
+4
+00:00:10,790 --> 00:00:13,180
+a continuación, determinar cuál de
+los siguientes son eventos reales ratón.
+
+5
+00:00:13,180 --> 00:00:16,500
+¿Tiene la función de monitor Eventos
+salir un ratón sobre evento?
+
+6
+00:00:16,500 --> 00:00:18,920
+¿Qué pasa con un ratón en el evento ?
+
+7
+00:00:18,920 --> 00:00:21,230
+Seleccione todas las que usted encuentra en
+los monitorEvents registro mientras
+
+8
+00:00:21,230 --> 00:00:22,740
+interactuar con la imagen.
+
+9
+00:00:22,740 --> 00:00:25,250
+Usted puede encontrar un enlace a este poder
+página en el instructor señala a continuación.
+

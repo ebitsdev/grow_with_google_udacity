@@ -1,0 +1,59 @@
+1
+00:00:00,720 --> 00:00:02,870
+Bem-vindo ao curso sobre jQuery.
+
+2
+00:00:02,870 --> 00:00:07,650
+Estou animado em conduzir você por um tour rápido da biblioteca jQuery.
+
+3
+00:00:07,650 --> 00:00:12,180
+Mais de 60% dos 100.000 sites mais visitados aproveitam a sintaxe
+
+4
+00:00:12,180 --> 00:00:16,700
+simples e os potentes métodos de manipulação do DOM do jQuery.
+
+5
+00:00:16,700 --> 00:00:19,740
+Neste curso, você verá em primeira mão por que o jQuery é tão
+
+6
+00:00:19,740 --> 00:00:22,760
+popular ao explorar os recursos que ele oferece.
+
+7
+00:00:24,000 --> 00:00:27,190
+Você começará examinando como a biblioteca jQuery é construída com
+
+8
+00:00:27,190 --> 00:00:30,500
+JavaScript e o que isso representa para seu código.
+
+9
+00:00:30,500 --> 00:00:34,770
+Depois, você se aprofundará nos seletores jQuery e métodos de navegação do DOM.
+
+10
+00:00:34,770 --> 00:00:39,040
+Essa é provavelmente a parte mais complicada e importante de aprender o jQuery.
+
+11
+00:00:39,040 --> 00:00:42,660
+Mas, depois de dominar os seletores, você analisará a documentação do jQuery
+
+12
+00:00:42,660 --> 00:00:45,370
+para escrever um código de manipulação do DOM simples e objetivo.
+
+13
+00:00:46,490 --> 00:00:48,825
+Há muitos testes neste curso, de modo que
+
+14
+00:00:48,825 --> 00:00:52,881
+você terá chance de praticar bastante a manipulação do DOM com o jQuery.
+
+15
+00:00:52,881 --> 00:00:54,160
+Preparado para começar?

@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:03,450
+Kamu telah mengatur event listeners menggunakan metode jQuery's
+
+2
+00:00:03,450 --> 00:00:05,840
+Sekarang ini sudah berjalan dengan baik, tetapi
+
+3
+00:00:05,840 --> 00:00:08,600
+JQuery juga memiliki metode-metode lain yang bisa dipakai dengan lebih nyaman
+
+4
+00:00:08,600 --> 00:00:09,930
+Coba kita lihat.
+
+5
+00:00:09,930 --> 00:00:12,460
+Beginilah caranya untuk mengatur event listeners untuk
+
+6
+00:00:12,460 --> 00:00:15,730
+Satu tekanan di setiap area masukan
+
+7
+00:00:15,730 --> 00:00:20,310
+Kita bisa menulis ini lagi menggunakan metode mudah jQuery dengan cara menggantikan
+
+8
+00:00:20,310 --> 00:00:21,230
+Dengan tombol keyboard
+
+9
+00:00:22,390 --> 00:00:25,470
+Dan sekarang kita tidak usah mencantumkan tipe event karena mudahnya
+
+10
+00:00:25,470 --> 00:00:26,830
+Metode ini diterapkan.
+
+11
+00:00:26,830 --> 00:00:27,870
+Betul kan?
+
+12
+00:00:27,870 --> 00:00:28,440
+Jauh lebih baik.
+
+13
+00:00:29,570 --> 00:00:33,210
+Jika kamu lihat tombol dokumentasi, kamu bisa lihat panah jQuery
+
+14
+00:00:33,210 --> 00:00:36,130
+Yang berfungsi sebagai tombol tekan itu sebenarnya adalah jalan pintas untuk
+
+15
+00:00:36,130 --> 00:00:39,030
+Metode menyalakan, membiarkan tombol menjadi argumen.
+
+16
+00:00:40,110 --> 00:00:42,450
+Perlu diketahui bahwa tidak ada banyak metode yang mudah untuk
+
+17
+00:00:42,450 --> 00:00:44,020
+Semua tipe event.
+
+18
+00:00:44,020 --> 00:00:48,192
+Coba lihat metode-metode apa saja yang tersedia di situs jQuery.
+
+19
+00:00:48,192 --> 00:00:50,460
+Saya sudah mencantumkan tautan dari halaman yang diperlukan di catatan instruktur .
+

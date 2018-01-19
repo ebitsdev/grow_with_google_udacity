@@ -1,0 +1,51 @@
+1
+00:00:00,260 --> 00:00:03,350
+Neste teste, você construirá uma nova árvore de família.
+
+2
+00:00:03,350 --> 00:00:05,190
+Quer dizer, não exatamente.
+
+3
+00:00:05,190 --> 00:00:09,110
+Mas você vai criar uma nova árvore do DOM, que é mais ou menos a mesma coisa.
+
+4
+00:00:09,110 --> 00:00:11,770
+Temos um DOM bem simples aqui.
+
+5
+00:00:11,770 --> 00:00:16,980
+Há dois divs aninhados e outro com o ID family1.
+
+6
+00:00:16,980 --> 00:00:21,290
+E sob family1, você pode ver os filhos e os filhos deles.
+
+7
+00:00:21,290 --> 00:00:25,300
+Mas, existe outra família, e ela vai se chamar family2.
+
+8
+00:00:25,300 --> 00:00:28,300
+Ela ainda não existe, você deverá criá-la.
+
+9
+00:00:28,300 --> 00:00:32,960
+Você verá que family2 tem um filho e esse filho tem dois filhos.
+
+10
+00:00:32,960 --> 00:00:36,990
+Neste teste, quero que você crie na árvore do DOM existente,
+
+11
+00:00:36,990 --> 00:00:39,460
+para que o resultado seja esse aqui.
+
+12
+00:00:40,600 --> 00:00:43,320
+Esses são os divs que você adicionará, e
+
+13
+00:00:43,320 --> 00:00:45,260
+você pode ver as IDs deles bem aqui.

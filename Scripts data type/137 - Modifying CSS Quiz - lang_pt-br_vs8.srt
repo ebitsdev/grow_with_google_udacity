@@ -1,0 +1,55 @@
+1
+00:00:00,660 --> 00:00:02,790
+Como seria o DOM sem CSS?
+
+2
+00:00:04,160 --> 00:00:08,890
+Bem, como você pode ver aqui nesta página de exemplo que estamos usando,
+
+3
+00:00:08,890 --> 00:00:10,560
+é muito sem graça.
+
+4
+00:00:10,560 --> 00:00:15,760
+Mas, felizmente, você pode acessar e modificar o CSS com jQuery de forma simples.
+
+5
+00:00:15,760 --> 00:00:20,470
+Agora, você deve tomar cuidado, pois alterar o CSS com JavaScript ou
+
+6
+00:00:20,470 --> 00:00:24,190
+jQuery significa adicionar CSS inline.
+
+7
+00:00:24,190 --> 00:00:27,730
+Veja, bem aqui está escrito que jQuery modifica a propriedade de estilo do elemento.
+
+8
+00:00:28,870 --> 00:00:33,850
+Essa não é uma boa maneira de criar um site, mas, às vezes, é necessário.
+
+9
+00:00:33,850 --> 00:00:37,280
+Nesta lição, vamos usá-lo, mas, no mundo real, você deve sempre pensar
+
+10
+00:00:37,280 --> 00:00:40,598
+se deve resolver o problema com CSS ou jQuery.
+
+11
+00:00:40,598 --> 00:00:45,770
+O método .css( ) é parecido com o método .adder( ), como acabamos de ver.
+
+12
+00:00:46,910 --> 00:00:51,560
+Uma assinatura de método receberá o valor da propriedade CSS,
+
+13
+00:00:51,560 --> 00:00:56,460
+enquanto outra assinatura definirá o valor da propriedade CSS.
+
+14
+00:00:56,460 --> 00:01:01,560
+Usando .css, você consegue definir o tamanho da fonte de todos os article-items como 20 pixels?

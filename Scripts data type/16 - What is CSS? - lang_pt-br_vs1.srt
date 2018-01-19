@@ -1,0 +1,128 @@
+1
+00:00:00,198 --> 00:00:04,748
+Para começar, vamos dar uma olhada
+nesta página da Web simples, sem estilo.
+
+2
+00:00:04,748 --> 00:00:06,655
+Parece bem simples, não?
+
+3
+00:00:06,655 --> 00:00:09,090
+Não seria melhor se
+pudéssemos adicionar estilo a ela?
+
+4
+00:00:09,090 --> 00:00:13,750
+Talvez possamos dispor o conteúdo
+de modo diferente, usar uma outra fonte ou
+
+5
+00:00:13,750 --> 00:00:16,040
+enfatizar outros elementos.
+
+6
+00:00:16,040 --> 00:00:18,750
+O CSS pode nos ajudar com isso.
+
+7
+00:00:18,750 --> 00:00:23,261
+CSS, ou Cascading Style Sheets,
+é a linguagem de marcação que usamos
+
+8
+00:00:23,261 --> 00:00:26,678
+para descrever como devem ser
+os elementos nos sites da Web.
+
+9
+00:00:26,678 --> 00:00:29,458
+CSS significa estilo.
+
+10
+00:00:29,458 --> 00:00:31,580
+Veja a página inicial do YouTube.
+
+11
+00:00:31,580 --> 00:00:35,250
+Com o CSS,
+é possível controlar coisas como cor,
+
+12
+00:00:35,250 --> 00:00:40,310
+espaçamento, fontes e
+layouts do site.
+
+13
+00:00:40,310 --> 00:00:43,130
+O que torna o CSS tão
+poderoso é que ele dá a você,
+
+14
+00:00:43,130 --> 00:00:46,890
+desenvolvedor da Web, a capacidade de alterar
+a aparência dos elementos da página.
+
+15
+00:00:48,060 --> 00:00:52,170
+O CSS é ótimo também porque podemos
+separar a descrição do conteúdo
+
+16
+00:00:52,170 --> 00:00:55,170
+que queremos na página, o HTML,
+
+17
+00:00:55,170 --> 00:01:00,150
+da descrição de como queremos que o
+conteúdo seja exibido na página, o CSS.
+
+18
+00:01:00,150 --> 00:01:01,780
+Vamos ver um exemplo.
+
+19
+00:01:01,780 --> 00:01:06,510
+Esta é a página inicial do Yahoo, mas e se eu
+a olhasse sem o CSS?
+
+20
+00:01:06,510 --> 00:01:09,210
+Como ela seria?
+
+21
+00:01:09,210 --> 00:01:11,770
+Uau, fica bem estranho, não?
+
+22
+00:01:11,770 --> 00:01:14,930
+O conteúdo continua aqui,
+mas a aparência é horrível.
+
+23
+00:01:14,930 --> 00:01:18,910
+O que aconteceu com a navegação
+na parte superior, o menu na lateral,
+
+24
+00:01:18,910 --> 00:01:22,030
+a barra de pesquisa e as notícias?
+
+25
+00:01:22,030 --> 00:01:24,290
+Bem, essa é a beleza do CSS.
+
+26
+00:01:24,290 --> 00:01:27,690
+Literalmente, todo o código que faz com que
+a página tenha determinada aparência
+
+27
+00:01:27,690 --> 00:01:32,320
+é separado do texto, das imagens
+e do conteúdo que estão na página.
+
+28
+00:01:32,320 --> 00:01:37,330
+Se eu adicionar o CSS de volta, teremos
+a mesma página inicial do Yahoo de antes.

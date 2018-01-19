@@ -1,0 +1,119 @@
+1
+00:00:00,150 --> 00:00:04,171
+O jQuery facilita muito a seleção de elementos específicos no DOM.
+
+2
+00:00:04,171 --> 00:00:08,329
+Se eu quisesse selecionar um elemento como este, por exemplo,
+
+3
+00:00:08,329 --> 00:00:13,585
+ou talvez se quisesse reunir uma coleção de elementos como estes dois itens de lista,
+
+4
+00:00:13,585 --> 00:00:17,920
+poderia usar os seletores jQuery para acessá-los rapidamente.
+
+5
+00:00:17,920 --> 00:00:21,348
+Lembra-se de como podemos passar uma string ao objeto jQuery?
+
+6
+00:00:22,860 --> 00:00:26,060
+Chamamos esta string de seletor jQuery, pois ela nos permite
+
+7
+00:00:26,060 --> 00:00:29,530
+selecionar uma parte do DOM.
+
+8
+00:00:29,530 --> 00:00:33,950
+Você pode usar o jQuery para selecionar uma coleção de elementos DOM com base no nome de tag,
+
+9
+00:00:33,950 --> 00:00:35,450
+nome de classe ou id.
+
+10
+00:00:36,460 --> 00:00:39,270
+Vou começar pelos seletores por nome de tag.
+
+11
+00:00:39,270 --> 00:00:43,370
+Passar a string do nome de tag resultará em uma coleção jQuery de todos os
+
+12
+00:00:43,370 --> 00:00:45,140
+elementos de uma certa tag.
+
+13
+00:00:46,300 --> 00:00:50,382
+Vou testar isso abrindo o console JavaScript do meu navegador no site da Udacity
+
+14
+00:00:50,382 --> 00:00:52,810
+que, como você deve lembrar, usa jQuery.
+
+15
+00:00:53,940 --> 00:00:56,580
+Se eu quisesse fazer algo com todos os divs na tela,
+
+16
+00:00:56,580 --> 00:00:59,480
+poderia selecioná-los passando div ao objeto jQuery.
+
+17
+00:00:59,480 --> 00:01:01,360
+E pronto.
+
+18
+00:01:01,360 --> 00:01:05,410
+Podemos abrir o objeto que foi retornado para ver uma coleção de elementos DOM.
+
+19
+00:01:05,410 --> 00:01:09,560
+Em um instante, você experimentará os seletores manipulando um site real.
+
+20
+00:01:09,560 --> 00:01:12,698
+Em index.html, você encontrará o HTML do site.
+
+21
+00:01:12,698 --> 00:01:17,411
+Em um app.js, você escreverá o JavaScript para modificar a página.
+
+22
+00:01:17,411 --> 00:01:20,280
+Pressione o botão Test Run para ver como fica a página.
+
+23
+00:01:21,360 --> 00:01:24,220
+Observe como temos este comentário no arquivo app.js.
+
+24
+00:01:25,360 --> 00:01:30,126
+Para este teste, defina a variável listElements como igual a uma coleção jQuery de
+
+25
+00:01:30,126 --> 00:01:32,295
+todos os elementos de lista na página.
+
+26
+00:01:32,295 --> 00:01:34,030
+Pressione Submit quando terminar.
+
+27
+00:01:34,030 --> 00:01:35,250
+E aqui vai uma dica rápida.
+
+28
+00:01:35,250 --> 00:01:36,848
+Você pode verificar sua resposta com um console.
+
+29
+00:01:36,848 --> 00:01:40,762
+Se você executar console.log da variável listElements, poderá abrir o
+
+30
+00:01:40,762 --> 00:01:44,631
+console do navegador para verificar se selecionou a coleção jQuery desejada.

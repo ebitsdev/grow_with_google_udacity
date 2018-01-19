@@ -1,0 +1,43 @@
+1
+00:00:00,190 --> 00:00:03,060
+A melhor forma de responder
+a essa pergunta é testá-la,
+
+2
+00:00:03,060 --> 00:00:06,200
+se eu adicionar este estilo
+à página usando um seletor p.
+
+3
+00:00:06,420 --> 00:00:12,625
+Temos p, cor do plano de fundo.
+Depois, salve e atualize.
+
+4
+00:00:12,790 --> 00:00:15,900
+Você pode ver que o estilo é
+aplicado a todos os parágrafos.
+
+5
+00:00:16,210 --> 00:00:18,425
+A resposta, portanto, é todas elas.
+
+6
+00:00:18,550 --> 00:00:21,625
+O seletor p, que
+é chamado seletor de tag,
+
+7
+00:00:21,780 --> 00:00:25,650
+seleciona todos os elementos que
+são parágrafos no HTML.
+
+8
+00:00:25,850 --> 00:00:28,425
+Seletores de tag são úteis
+quando você deseja alterar
+
+9
+00:00:29,860 --> 00:00:30,770
+o estilo de cada elemento
+de uma determinada tag.

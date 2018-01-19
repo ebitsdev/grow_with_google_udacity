@@ -1,0 +1,28 @@
+1
+00:00:00,490 --> 00:00:03,520
+Super, wir haben diese Lektion zu jQuery Ereignissen (events) durchgearbeitet.
+
+2
+00:00:03,520 --> 00:00:05,780
+Sie wissen jetzt, wie man Ereignisbehandlungsroutinen (event listener) mit jQuery festlegt.
+
+3
+00:00:05,780 --> 00:00:10,480
+Sie können jetzt mit den Nutzern interagieren.
+
+4
+00:00:10,480 --> 00:00:12,320
+Tolle Arbeit.
+
+5
+00:00:12,320 --> 00:00:15,710
+Auf geht's! Legen Sie fest, wie Mausklicks, Tastendruck und
+
+6
+00:00:15,710 --> 00:00:16,970
+abgeschickte Formulare behandelt werden sollen.
+
+7
+00:00:16,970 --> 00:00:19,720
+Erwecken Sie Ihre Seiten zum Leben und interagieren Sie mit Ihren Nutzern.
+

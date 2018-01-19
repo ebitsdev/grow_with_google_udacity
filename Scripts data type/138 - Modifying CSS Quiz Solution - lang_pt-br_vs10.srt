@@ -1,0 +1,27 @@
+1
+00:00:00,490 --> 00:00:02,080
+Bom, este é bem simples.
+
+2
+00:00:02,080 --> 00:00:04,360
+Apenas selecionamos os article-items e
+
+3
+00:00:04,360 --> 00:00:09,310
+usamos o método .css para alterar o tamanho da fonte para 20 pixels.
+
+4
+00:00:09,310 --> 00:00:11,990
+Vamos ver como fica depois de clicar em Test Run.
+
+5
+00:00:11,990 --> 00:00:13,410
+E olhe só para isso.
+
+6
+00:00:13,410 --> 00:00:16,309
+Em todos os artigos, o texto ficou muito maior.
+
+7
+00:00:16,309 --> 00:00:16,810
+Muito legal.

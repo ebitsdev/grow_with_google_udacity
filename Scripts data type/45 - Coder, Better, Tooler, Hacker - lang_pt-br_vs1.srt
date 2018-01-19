@@ -1,0 +1,81 @@
+1
+00:00:02,638 --> 00:00:04,918
+Ei, como está se sentindo?
+
+2
+00:00:04,918 --> 00:00:06,518
+&gt;&gt; Bem melhor.
+
+3
+00:00:06,518 --> 00:00:12,320
+&gt;&gt; É, parece que está mesmo
+conseguindo fazer bastante.
+
+4
+00:00:12,320 --> 00:00:13,530
+&gt;&gt; Acho que ele está na "Zona" agora.
+
+5
+00:00:13,530 --> 00:00:14,840
+&gt;&gt; É,
+acho melhor deixá-lo em paz.
+
+6
+00:00:14,840 --> 00:00:15,468
+&gt;&gt; Sim!
+
+7
+00:00:15,468 --> 00:00:18,700
+&gt;&gt; De toda forma, só vimos o básico
+dos editores de código.
+
+8
+00:00:18,700 --> 00:00:20,280
+Mas agora você sabe o que tem ali.
+
+9
+00:00:20,280 --> 00:00:22,980
+E, como cada um é diferente e
+tem seu próprio jeito de fazer as coisas,
+
+10
+00:00:22,980 --> 00:00:24,720
+o mesmo vale para os códigos.
+
+11
+00:00:24,720 --> 00:00:25,600
+&gt;&gt; É mesmo.
+
+12
+00:00:25,600 --> 00:00:28,500
+Você deve se arriscar e
+experimentar diferentes pacotes de código,
+
+13
+00:00:28,500 --> 00:00:31,666
+atalhos de teclado,
+tentar até mesmo um novo editor de código.
+
+14
+00:00:31,666 --> 00:00:33,500
+Você se surpreenderá
+como pode ser divertido e
+
+15
+00:00:33,500 --> 00:00:35,660
+como é fácil melhorar
+seu fluxo de trabalho dessa forma.
+
+16
+00:00:35,660 --> 00:00:38,322
+&gt;&gt; Sim, você terá a chance
+de praticar na próxima aula.
+
+17
+00:00:38,322 --> 00:00:41,340
+Você irá mais fundo
+no layout e no tamanho dos elementos.
+
+18
+00:00:41,340 --> 00:00:41,953
+Até lá!

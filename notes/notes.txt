@@ -1,0 +1,4 @@
+Nice! When checking if a string is "greater than" or "less than" another string, 
+JavaScript compares individual characters using a numerical value. Each character 
+is assigned a numerical value that essentially corresponds to the character's location 
+in an ASCII table: http://www.ascii-code.com/

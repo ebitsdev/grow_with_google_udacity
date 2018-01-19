@@ -1,0 +1,23 @@
+1
+00:00:00,150 --> 00:00:02,340
+Você está quase terminando o curso sobre jQuery.
+
+2
+00:00:02,340 --> 00:00:05,870
+Muito bem. Agora que você teve algum tempo para praticar alguns métodos
+
+3
+00:00:05,870 --> 00:00:10,810
+jQuery comuns, reflita um pouco sobre por que a maioria da Web usa jQuery.
+
+4
+00:00:12,660 --> 00:00:18,848
+Por conta da seleção rápida do jQuery, de sua compatibilidade entre navegadores,
+
+5
+00:00:18,848 --> 00:00:23,650
+sua fácil manipulação do DOM, as páginas carregam mais rapidamente?
+
+6
+00:00:23,650 --> 00:00:26,860
+Porque ele me faz feliz ou por algum outro motivo?

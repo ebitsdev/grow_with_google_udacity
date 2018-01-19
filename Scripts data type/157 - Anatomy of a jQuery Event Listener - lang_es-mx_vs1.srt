@@ -1,0 +1,122 @@
+1
+00:00:00,480 --> 00:00:03,180
+Hasta aquí,
+usted ha investigado eventos del navegador , y
+
+2
+00:00:03,180 --> 00:00:05,230
+usted ha tomado un pico
+a ellos que se registren .
+
+3
+00:00:05,230 --> 00:00:08,680
+Ahora es el tiempo para escuchar realmente 
+y responder a ellos con jQuery .
+
+4
+00:00:08,680 --> 00:00:12,760
+Hay tres elementos que necesita con el fin
+para detectar eventos y reaccionar ante ellos.
+
+5
+00:00:12,760 --> 00:00:16,530
+Es necesario el elemento objetivo para escuchar
+para , el evento queremos reaccionar,
+
+6
+00:00:16,530 --> 00:00:19,320
+y las acciones a tomar en respuesta .
+
+7
+00:00:19,320 --> 00:00:20,230
+Déjame mostrarte un ejemplo .
+
+8
+00:00:21,720 --> 00:00:24,660
+Necesito el elemento objetivo que
+jQuery se escuchaba por
+
+9
+00:00:24,660 --> 00:00:28,750
+eventos , así que vamos a usar jQuery
+para seleccionar el campo de entrada .
+
+10
+00:00:29,770 --> 00:00:31,710
+A continuación, use el método ya conocido
+
+11
+00:00:31,710 --> 00:00:34,240
+Este método es en donde
+la magia sucede.
+
+12
+00:00:34,240 --> 00:00:37,469
+Es la forma primaria que jQuery
+utiliza para configurar los detectores de eventos .
+
+13
+00:00:38,630 --> 00:00:42,490
+El primer argumento del método
+es el evento que quiero escuchar
+
+14
+00:00:42,490 --> 00:00:44,190
+En este ejemplo , es pulsación de tecla.
+
+15
+00:00:44,190 --> 00:00:47,650
+Pero también podría hacer clic , el cambio ,
+y mouseover por nombrar algunos .
+
+16
+00:00:48,810 --> 00:00:49,360
+Y finalmente,
+
+17
+00:00:49,360 --> 00:00:53,050
+Tengo que pasar una función con las
+acciones que quieren que suceda en respuesta .
+
+18
+00:00:53,050 --> 00:00:55,282
+Esta función se llama la devolución de llamada .
+
+19
+00:00:55,282 --> 00:00:57,890
+La llamada de retorno
+pasó a la del método ,
+
+20
+00:00:57,890 --> 00:00:59,840
+es sólo una función regular JavaScript .
+
+21
+00:00:59,840 --> 00:01:02,400
+Y por lo tanto , puede contener
+cualquier código JavaScript que desee,
+
+22
+00:01:02,400 --> 00:01:05,580
+de alterar el contenido de la página
+al código de análisis .
+
+23
+00:01:05,580 --> 00:01:08,480
+Voy a cambiar el contenido de la función
+para alterar el color de la página.
+
+24
+00:01:09,650 --> 00:01:11,404
+Y voy a probarlo.
+
+25
+00:01:11,404 --> 00:01:13,810
+Bum.
+Luce bien.
+
+26
+00:01:13,810 --> 00:01:16,200
+En el siguiente ejercicio , vas a
+crear su propio detector de eventos.
+

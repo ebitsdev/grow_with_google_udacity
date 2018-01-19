@@ -1,0 +1,47 @@
+1
+00:00:00,370 --> 00:00:03,880
+Você pode adicionar jQuery a qualquer site usando tags script, como estas.
+
+2
+00:00:03,880 --> 00:00:09,250
+Você pode hospedar este arquivo no seu próprio servidor, com um caminho como este,
+
+3
+00:00:09,250 --> 00:00:12,960
+mas é recomendável usar uma versão do jQuery hospedada em
+
+4
+00:00:12,960 --> 00:00:15,290
+uma rede de entrega de conteúdo ou CDN.
+
+5
+00:00:16,550 --> 00:00:19,700
+As CDNs geralmente são muito mais rápidas do que seu próprio servidor e,
+
+6
+00:00:19,700 --> 00:00:23,290
+além disso, permitem que você aproveite o recurso de cache do navegador.
+
+7
+00:00:23,290 --> 00:00:26,480
+O jQuery e o Google usam jQuery hospedado.
+
+8
+00:00:26,480 --> 00:00:30,270
+Considerando o número absoluto de sites que usam jQuery, você está seguro ao usar
+
+9
+00:00:30,270 --> 00:00:34,095
+tanto o host oficial do Google quanto do jQuery para hospedar suas compilações de produção.
+
+10
+00:00:35,250 --> 00:00:39,050
+E não se esqueça de usar a versão minificada do jQuery na produção.
+
+11
+00:00:39,050 --> 00:00:42,260
+A versão minificada do jQuery é consideravelmente menor, por isso,
+
+12
+00:00:42,260 --> 00:00:43,940
+levará a carregamentos de página mais rápidos.

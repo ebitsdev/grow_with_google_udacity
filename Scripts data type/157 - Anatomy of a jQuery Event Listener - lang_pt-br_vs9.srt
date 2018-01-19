@@ -1,0 +1,121 @@
+1
+00:00:00,480 --> 00:00:03,180
+Até agora, você estudou
+eventos do navegador e
+
+2
+00:00:03,180 --> 00:00:05,230
+deu uma olhada
+no registro deles.
+
+3
+00:00:05,230 --> 00:00:08,680
+Agora é hora de realmente escutar
+e responder a eles usando o jQuery.
+
+4
+00:00:08,680 --> 00:00:12,760
+Você precisa de três itens para
+escutar eventos e reagir a eles.
+
+5
+00:00:12,760 --> 00:00:16,530
+Precisa do elemento alvo que deve ser
+escutado, o evento ao qual queremos reagir
+
+6
+00:00:16,530 --> 00:00:19,320
+e as ações que devem ser executadas como resposta.
+
+7
+00:00:19,320 --> 00:00:20,230
+Vou mostrar um exemplo.
+
+8
+00:00:21,720 --> 00:00:24,660
+Preciso do elemento alvo cujos
+eventos o jQuery escutará,
+
+9
+00:00:24,660 --> 00:00:28,750
+então vou usar o jQuery
+para selecionar o campo de entrada.
+
+10
+00:00:29,770 --> 00:00:31,710
+Depois, vou chamar o método on.
+
+11
+00:00:31,710 --> 00:00:34,240
+Esse método on é onde
+a mágica acontece.
+
+12
+00:00:34,240 --> 00:00:37,469
+Essa é a principal maneira que o jQuery
+usa para configurar observadores de eventos.
+
+13
+00:00:38,630 --> 00:00:42,490
+O primeiro argumento do método on
+é o evento que quero escutar.
+
+14
+00:00:42,490 --> 00:00:44,190
+Neste exemplo, é keypress.
+
+15
+00:00:44,190 --> 00:00:47,650
+Mas alguns outros também poderiam ser
+click, change e mouseover.
+
+16
+00:00:48,810 --> 00:00:49,360
+E, por fim,
+
+17
+00:00:49,360 --> 00:00:53,050
+preciso passar uma função com as
+ações que devem acontecer como resposta.
+
+18
+00:00:53,050 --> 00:00:55,282
+Esta função é chamada de callback.
+
+19
+00:00:55,282 --> 00:00:57,890
+A função de callback que está
+sendo passada para o método on
+
+20
+00:00:57,890 --> 00:00:59,840
+é apenas uma função JavaScript regular.
+
+21
+00:00:59,840 --> 00:01:02,400
+Portanto, ela pode conter
+qualquer código JavaScript que você queira,
+
+22
+00:01:02,400 --> 00:01:05,580
+da alteração do conteúdo da página
+a um código de análise.
+
+23
+00:01:05,580 --> 00:01:08,480
+Vou mudar o conteúdo da função
+para alterar a cor da página.
+
+24
+00:01:09,650 --> 00:01:11,404
+E vou fazer um teste.
+
+25
+00:01:11,404 --> 00:01:13,810
+Pronto.
+Parece bom.
+
+26
+00:01:13,810 --> 00:01:16,200
+No próximo teste, você vai
+criar seu próprio observador de eventos.

@@ -1,0 +1,18 @@
+1
+00:00:00,025 --> 00:00:04,380
+O método de conveniência hover do jQuery
+não é um atalho para .on hover.
+
+2
+00:00:05,520 --> 00:00:10,002
+Na verdade, o método de conveniência hover
+é um atalho para os métodos de
+
+3
+00:00:10,002 --> 00:00:12,970
+conveniência .mouseenter, .mouseleave.
+
+4
+00:00:12,970 --> 00:00:15,930
+Esses métodos de conveniência
+são superpráticos; faça uso deles.

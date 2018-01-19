@@ -1,0 +1,25 @@
+1
+00:00:00,590 --> 00:00:04,600
+,Ahora que ya sabe cómo escuchar para el
+acciones visitantes de su sitio realizan,
+
+2
+00:00:04,650 --> 00:00:07,920
+Quiero que configura un evento
+oyente utilizando jQuery.
+
+3
+00:00:07,920 --> 00:00:11,730
+Su detector de eventos debe escuchar
+el elemento de mi botón del evento click.
+
+4
+00:00:11,730 --> 00:00:15,730
+Y cuando se hace clic en ese botón, quiero
+utilizar jQuery para quitar el botón
+
+5
+00:00:15,161 --> 00:00:19,161
+del DOM y
+añadir el éxito clase para el cuerpo.
+

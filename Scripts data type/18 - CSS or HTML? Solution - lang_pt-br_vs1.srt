@@ -1,0 +1,127 @@
+1
+00:00:00,390 --> 00:00:03,940
+Movendo da esquerda para a direita,
+vamos analisar a primeira opção.
+
+2
+00:00:03,940 --> 00:00:06,900
+A primeira opção tem uma imagem,
+uma lista numerada
+
+3
+00:00:07,050 --> 00:00:08,900
+seguida por algum texto.
+
+4
+00:00:09,020 --> 00:00:12,175
+Embora pareça que essa página
+esteja usando CSS adicional,
+
+5
+00:00:12,250 --> 00:00:14,140
+na verdade, ela não está.
+
+6
+00:00:14,140 --> 00:00:18,425
+A imagem, a lista numerada e o texto
+são simplesmente conteúdo na página
+
+7
+00:00:18,525 --> 00:00:21,310
+e têm essa aparência apenas com HTML.
+
+8
+00:00:21,310 --> 00:00:23,950
+O espaçamento que você vê entre
+os elementos é apenas
+
+9
+00:00:24,025 --> 00:00:27,370
+o estilo padrão aplicado
+pelo navegador Google Chrome.
+
+10
+00:00:27,370 --> 00:00:29,750
+Quando você começa a escrever CSS
+continuando,
+
+11
+00:00:29,825 --> 00:00:32,900
+é importante lembrar-se de que
+cada navegador é fornecido com seu próprio conjunto
+
+12
+00:00:32,900 --> 00:00:36,250
+de estilos padrão que
+podem ser ligeiramente exclusivos.
+
+13
+00:00:36,250 --> 00:00:37,890
+Em seguida, olhando para o número dois,
+
+14
+00:00:37,890 --> 00:00:41,902
+você vê títulos de tamanhos
+diferentes e também um hiperlink.
+
+15
+00:00:41,902 --> 00:00:44,410
+O hiperlink é azul
+e sublinhado,
+
+16
+00:00:44,410 --> 00:00:47,900
+mas isso não é porque CSS adicional
+está sendo aplicado.
+
+17
+00:00:47,900 --> 00:00:53,200
+Novamente, por padrão, o Google Chrome está
+aplicando algum estilo padrão ao HTML.
+
+18
+00:00:53,200 --> 00:00:57,490
+Nesse caso, o estilo padrão do Chrome
+é alterar links para ficarem azuis
+
+19
+00:00:57,490 --> 00:00:58,050
+e sublinhados.
+
+20
+00:00:59,100 --> 00:01:01,980
+Finalmente, isso nos
+deixa com a opção três.
+
+21
+00:01:01,980 --> 00:01:03,425
+Se você examinar a opção três,
+
+22
+00:01:03,525 --> 00:01:06,470
+poderá ver que há um botão
+colorido bem como imagens
+
+23
+00:01:06,470 --> 00:01:08,475
+e texto, que foram
+alinhados horizontalmente
+
+24
+00:01:08,550 --> 00:01:10,240
+no centro da página.
+
+25
+00:01:10,240 --> 00:01:12,900
+Você também pode observar
+o uso de outra fonte.
+
+26
+00:01:12,900 --> 00:01:16,710
+Para aplicar estilo a uma página como essa
+é necessário usar CSS.
+
+27
+00:01:16,710 --> 00:01:19,150
+Portanto, a opção três
+é a resposta certa.

@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:03,150
+Je vous ai guidé dans l'utilisation 
+de la fonction on() de JQuery
+
+2
+00:00:03,150 --> 00:00:06,010
+Vous avez passé du temps à chercher
+des méthodes adaptatives
+
+3
+00:00:06,010 --> 00:00:07,870
+qui sont juste un raccourci
+pour on()
+
+4
+00:00:07,870 --> 00:00:11,128
+Étonnement, il reste une méthode
+pour faire un détecteur d'évènement
+
+5
+00:00:11,128 --> 00:00:12,360
+avec la méthode on() .
+
+6
+00:00:12,360 --> 00:00:15,600
+Dans la prochaine section,
+vous apprendrez la délégation d'évènements
+
+7
+00:00:15,600 --> 00:00:19,230
+où JQuery surveille l'élément père
+pour détecter un événements dans ses fils.

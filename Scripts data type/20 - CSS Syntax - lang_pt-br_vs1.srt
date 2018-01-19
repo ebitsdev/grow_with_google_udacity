@@ -1,0 +1,23 @@
+1
+00:00:00,290 --> 00:00:01,690
+Agora é sua vez.
+
+2
+00:00:01,690 --> 00:00:06,010
+Para este teste, quero que você altere
+a cor do Hello, World para verde.
+
+3
+00:00:06,010 --> 00:00:09,560
+Você precisará usar um seletor
+para selecionar a tag header
+
+4
+00:00:09,560 --> 00:00:12,700
+e desejará alterar
+a cor da sua propriedade para verde.
+
+5
+00:00:12,700 --> 00:00:16,770
+Se precisar de ajuda, use o CSS
+de tags parágrafo como guia.

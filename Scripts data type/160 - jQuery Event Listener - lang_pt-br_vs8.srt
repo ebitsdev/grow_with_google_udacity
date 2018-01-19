@@ -1,0 +1,24 @@
+1
+00:00:00,590 --> 00:00:04,650
+Agora que você sabe como observar as
+ações dos visitantes do seu site,
+
+2
+00:00:04,650 --> 00:00:07,920
+quero que você configure um observador
+de eventos usando o jQuery.
+
+3
+00:00:07,920 --> 00:00:11,730
+Seu observador de eventos deve observar
+o elemento my-button em busca do evento click.
+
+4
+00:00:11,730 --> 00:00:14,940
+E, quando alguém clicar nesse botão, quero
+que você use o jQuery para remover o botão
+
+5
+00:00:14,940 --> 00:00:18,110
+do DOM e
+adicionar a classe success ao body.

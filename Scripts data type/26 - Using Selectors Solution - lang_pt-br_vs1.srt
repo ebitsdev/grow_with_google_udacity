@@ -1,0 +1,95 @@
+1
+00:00:00,770 --> 00:00:05,040
+Começando de cima, o primeiro
+elemento tem a classe "attribute".
+
+2
+00:00:05,040 --> 00:00:07,830
+E está definida com o valor "right".
+
+3
+00:00:07,830 --> 00:00:09,360
+Isto corresponde ao nosso CSS.
+
+4
+00:00:09,360 --> 00:00:11,360
+Então, funciona.
+
+5
+00:00:11,360 --> 00:00:14,230
+O segundo elemento
+também tem a classe "attribute".
+
+6
+00:00:14,230 --> 00:00:17,340
+Mas está sendo definido
+com o valor "leftright".
+
+7
+00:00:17,340 --> 00:00:22,060
+Embora "right" faça parte do valor
+"leftright" como um todo, isto não funciona.
+
+8
+00:00:22,060 --> 00:00:25,110
+Se quiséssemos corresponder este elemento,
+teríamos que alterar
+
+9
+00:00:25,110 --> 00:00:30,860
+o seletor em nosso CSS para a palavra
+'leftright" inteira, em vez de só "right".
+
+10
+00:00:30,860 --> 00:00:35,790
+Nosso terceiro elemento tem o atributo ID
+e está sendo definido com o valor "right".
+
+11
+00:00:35,790 --> 00:00:37,740
+Também não funciona.
+
+12
+00:00:37,740 --> 00:00:41,160
+E o motivo é que nossa instrução CSS
+está buscando correspondência
+
+13
+00:00:41,160 --> 00:00:42,630
+com a classe "right".
+
+14
+00:00:42,630 --> 00:00:43,640
+E não com o ID "right".
+
+15
+00:00:44,910 --> 00:00:48,280
+Por fim, o quarto elemento
+tem a classe "attribute" e
+
+16
+00:00:48,280 --> 00:00:50,520
+está definido com três valores diferentes.
+
+17
+00:00:50,520 --> 00:00:53,510
+"Highlight", "module" e "right".
+
+18
+00:00:53,510 --> 00:00:56,810
+Embora pareça não funcionar,
+na verdade, funciona.
+
+19
+00:00:56,810 --> 00:00:59,720
+E isso porque você pode definir
+várias classes com um elemento,
+
+20
+00:00:59,720 --> 00:01:02,110
+desde que as separe com espaços.
+
+21
+00:01:02,110 --> 00:01:04,580
+E a ordem das classes
+também não importa.

@@ -1,0 +1,69 @@
+1
+00:00:00,590 --> 00:00:01,880
+Vamos praticar.
+
+2
+00:00:01,880 --> 00:00:04,500
+Para este teste, tente usar
+algumas propriedades
+
+3
+00:00:04,500 --> 00:00:06,370
+que exijam unidades.
+
+4
+00:00:06,370 --> 00:00:08,640
+Criei esta página da Web
+como uma área restrita
+
+5
+00:00:08,640 --> 00:00:11,330
+para você testar
+diferentes propriedades CSS.
+
+6
+00:00:11,330 --> 00:00:12,970
+Também adicionei estilo
+
+7
+00:00:12,970 --> 00:00:16,075
+para permitir que você veja os diferentes
+elementos na página.
+
+8
+00:00:16,070 --> 00:00:18,250
+Para fazer isso, precisei
+definir a altura dos elementos
+
+9
+00:00:18,350 --> 00:00:21,730
+para 100 pixels e atribuir
+cores de fundo exclusivas.
+
+10
+00:00:21,730 --> 00:00:23,050
+Para completar o teste,
+
+11
+00:00:23,150 --> 00:00:27,040
+você precisará definir a largura
+do primeiro div em 100 pixels.
+
+12
+00:00:27,045 --> 00:00:30,370
+E a altura do segundo
+div em 200 pixels,
+
+13
+00:00:30,370 --> 00:00:33,500
+a margem do terceiro
+div com um M,
+
+14
+00:00:33,830 --> 00:00:36,930
+e o tamanho da fonte do quarto div
+com dois Ms.
+
+15
+00:00:36,930 --> 00:00:37,430
+Boa sorte.

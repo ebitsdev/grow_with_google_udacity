@@ -1,0 +1,117 @@
+1
+00:00:00,850 --> 00:00:03,040
+Confira minha solução para este teste.
+
+2
+00:00:03,040 --> 00:00:06,070
+Para começar,
+analisei o teste antes
+
+3
+00:00:06,070 --> 00:00:08,620
+de abrir as Ferramentas do desenvolvedor.
+
+4
+00:00:08,620 --> 00:00:11,080
+Coloquei as Ferramentas do
+desenvolvedor no final da página
+
+5
+00:00:11,080 --> 00:00:12,640
+para ter uma visão melhor do cabeçalho.
+
+6
+00:00:14,030 --> 00:00:17,630
+Os dois primeiros testes envolveram a
+adição de estilo ao cabeçalho.
+
+7
+00:00:17,630 --> 00:00:20,860
+Para localizar o cabeçalho, inspecionei
+a área na parte superior da página
+
+8
+00:00:20,860 --> 00:00:22,380
+e comecei a analisar o HTML.
+
+9
+00:00:23,570 --> 00:00:26,115
+Em vez de encontrar um elemento
+com a classe header,
+
+10
+00:00:26,115 --> 00:00:29,255
+esta página específica usou
+uma tag semântica header.
+
+11
+00:00:30,255 --> 00:00:31,590
+Interessante.
+
+12
+00:00:31,590 --> 00:00:35,455
+Abordaremos mais os elementos
+semânticos em uma lição posterior.
+
+13
+00:00:35,455 --> 00:00:38,748
+Para passar nos testes,
+adicionei o estilo de cor
+
+14
+00:00:38,748 --> 00:00:42,145
+e alterei font-weight de 800 para 400.
+
+15
+00:00:42,145 --> 00:00:45,005
+O teste seguinte solicitou
+a mudança do logotipo da Udacity
+
+16
+00:00:45,005 --> 00:00:47,440
+para uma largura fixa de 200 pixels.
+
+17
+00:00:47,440 --> 00:00:50,460
+Para concluir,
+inspecionei o logotipo da Udacity,
+
+18
+00:00:50,460 --> 00:00:54,710
+e bastou corrigir o estilo para
+200 pixels, em vez de 500.
+
+19
+00:00:54,710 --> 00:00:59,860
+Por fim, para passar no último teste, localizei
+a tag body, o que foi bem fácil,
+
+20
+00:00:59,860 --> 00:01:03,430
+pois a tag body sempre fica
+na parte superior do HTML.
+
+21
+00:01:03,430 --> 00:01:06,339
+Depois, adicionei uma cor de fundo
+para finalizar o teste.
+
+22
+00:01:08,150 --> 00:01:11,065
+Mais um detalhe que vale ressaltar
+é que, conforme comecei a digitar
+
+23
+00:01:11,065 --> 00:01:15,195
+a cor de fundo na seção Styles,
+as Ferramentas do desenvolvedor começaram a preencher
+
+24
+00:01:15,195 --> 00:01:19,220
+automaticamente uma lista de propriedades
+que iniciavam com a palavra background.
+
+25
+00:01:20,270 --> 00:01:23,240
+This is really helpful when testing
+styles live in the browser.

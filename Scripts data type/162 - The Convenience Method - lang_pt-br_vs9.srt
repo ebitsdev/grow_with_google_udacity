@@ -1,0 +1,86 @@
+1
+00:00:00,200 --> 00:00:03,450
+Você tem configurado ouvintes de
+evento usando o método on do jQuery.
+
+2
+00:00:03,450 --> 00:00:05,840
+Isso funciona muito bem, mas o
+
+3
+00:00:05,840 --> 00:00:08,600
+jQuery também tem alguns métodos de conveniência
+que você pode usar.
+
+4
+00:00:08,600 --> 00:00:09,930
+Vamos ver.
+
+5
+00:00:09,930 --> 00:00:12,460
+É assim que configuraríamos
+um observador de eventos para um
+
+6
+00:00:12,460 --> 00:00:15,730
+keypress em cada campo input.
+
+7
+00:00:15,730 --> 00:00:20,310
+Poderíamos reescrever isso usando o
+método de conveniência do jQuery, substituindo o on
+
+8
+00:00:20,310 --> 00:00:21,230
+pelo keypress.
+
+9
+00:00:22,390 --> 00:00:25,470
+E agora não temos que especificar
+o tipo de evento porque ele está implícito
+
+10
+00:00:25,470 --> 00:00:26,830
+no método de conveniência.
+
+11
+00:00:26,830 --> 00:00:27,870
+Está vendo?
+
+12
+00:00:27,870 --> 00:00:28,440
+Muito mais legal.
+
+13
+00:00:29,570 --> 00:00:33,210
+Na documentação do keypress, você
+verá que o jQuery destaca
+
+14
+00:00:33,210 --> 00:00:36,130
+que a função keypress é, na verdade,
+um atalho para
+
+15
+00:00:36,130 --> 00:00:39,030
+o método on,
+passando keypress como um argumento.
+
+16
+00:00:40,110 --> 00:00:42,450
+É importante saber que não há
+métodos de conveniência para
+
+17
+00:00:42,450 --> 00:00:44,020
+todos os tipos de evento.
+
+18
+00:00:44,020 --> 00:00:48,192
+Dê uma olhada em quais métodos
+estão disponíveis no site de API do jQuery.
+
+19
+00:00:48,192 --> 00:00:50,460
+Eu vinculei à
+página apropriada nas Notas do instrutor.

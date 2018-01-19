@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:00,880
+Lo primero es lo
+
+2
+00:00:00,880 --> 00:00:01,786
+primero
+
+3
+00:00:02,293 --> 00:00:02,808
+Tenemos que apuntar el elemento que vamos
+
+4
+00:00:02,944 --> 00:00:04,270
+a escuchar en los eventos
+
+5
+00:00:04,870 --> 00:00:05,580
+Esto es B.
+
+6
+00:00:05,740 --> 00:00:07,890
+Posición dos es el del método .
+
+7
+00:00:07,890 --> 00:00:08,880
+Esto es C.
+
+8
+00:00:09,481 --> 00:00:11,731
+Posición tres es el tipo de
+evento que queremos
+
+9
+00:00:11,731 --> 00:00:12,551
+escuchar.
+
+10
+00:00:13,641 --> 00:00:15,371
+Esto es D.
+
+11
+00:00:15,401 --> 00:00:17,141
+Y el último es A, la devolución de
+
+12
+00:00:17,273 --> 00:00:18,503
+llamada funcion que se ejecuta cuando el evento
+
+13
+00:00:18,594 --> 00:00:21,614
+sucede en el elemento objetivo

@@ -1,0 +1,55 @@
+1
+00:00:00,690 --> 00:00:03,410
+São quase todas as opções anteriores.
+
+2
+00:00:03,410 --> 00:00:07,510
+O jQuery adiciona alguns quilobytes ao tamanho das páginas,
+
+3
+00:00:07,510 --> 00:00:10,890
+então o tempo de carregamento aumenta um pouquinho.
+
+4
+00:00:10,890 --> 00:00:13,481
+Mas, considerando o quanto a sintaxe é facilitada,
+
+5
+00:00:13,481 --> 00:00:16,990
+os desenvolvedores costumam ficar satisfeitos em adicioná-lo aos seus sites.
+
+6
+00:00:18,010 --> 00:00:21,870
+Pessoalmente, quero acrescentar que, enquanto eu estava criando esta aula,
+
+7
+00:00:21,870 --> 00:00:25,420
+minha opinião sobre o jQuery mudou um pouco.
+
+8
+00:00:25,420 --> 00:00:28,670
+Minha tendência geral é usar JavaScript comum para fazer
+
+9
+00:00:28,670 --> 00:00:33,060
+a manipulação do DOM porque não quero acrescentar os quilobytes extras às minhas páginas.
+
+10
+00:00:33,060 --> 00:00:37,270
+Mas, honestamente, depois de fazer a pesquisa para produzir esta aula
+
+11
+00:00:37,270 --> 00:00:41,630
+e passar mais tempo com o jQuery, eu acho que ele é demais.
+
+12
+00:00:41,630 --> 00:00:44,670
+Então vou desenhar uma carinha feliz aqui.
+
+13
+00:00:44,670 --> 00:00:48,340
+É uma carinha feia, mas é assim que estou me sentindo agora.
+
+14
+00:00:48,340 --> 00:00:49,860
+Então, parabéns por terminarem, pessoal.
