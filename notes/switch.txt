@@ -1,0 +1,24 @@
+
+
+Thanks for completing that!
+Falling through should only be used in similar situations; otherwise, make sure to break each switch case to avoid unexpected behavior.
+
+QUIZ QUESTION
+
+If winner is equal to 3, then what will be output to the console?
+
+var prize = "";
+
+switch (winner) {
+  case 1:
+    prize += "a trip for two to the Bahamas and ";
+  case 2:
+    prize += "a four piece furniture set.";
+    break;
+  case 3:
+    prize += "a smartwatch and ";
+  default:
+    prize += "tickets to the circus.";
+}
+
+console.log("You've won " + prize);

@@ -1,0 +1,28 @@
+Here’s the list of all of the falsy values:
+the Boolean value false
+the null type
+the undefined type
+the number 0
+the empty string ""
+the odd value NaN (stands for "not a number", check out the NaN MDN article)
+That's right, there are only six falsy values in all of JavaScript!
+
+Ternary Operator
+
+if we use "null" as a string then it is truthy just like when we use "1" as a string
+
+TIP: Using if(isGoing) is the same as using if(isGoing === true). Alternatively, using if(!isGoing) is the same as using if(isGoing === false).
+
+Ternary operator
+The ternary operator provides you with a shortcut alternative for writing lengthy if...else statements.
+
+conditional ? (if condition is true) : (if condition is false)
+To use the ternary operator, first provide a conditional statement on the left-side of the ?. Then, between the ? and : write the code that would run if the condition is true and on the right-hand side of the : write the code that would run if the condition is false. For example, you can rewrite the example code above as:
+
+var isGoing = true;
+var color = isGoing ? "green" : "red";
+console.log(color);
+Prints: "green"
+
+Using ternary statements in your code is completely optional. It just gives you another option for writing if...else statements.
+
