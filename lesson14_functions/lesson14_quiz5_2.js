@@ -14,4 +14,4 @@ function laugh(num){
     }
     return laugh + "!";
 }
-console.log(laugh(3));
+console.log(laugh(5));
