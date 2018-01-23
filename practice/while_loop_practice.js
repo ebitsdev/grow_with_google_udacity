@@ -17,5 +17,6 @@ while(i < 6){
     }
     else { console.log("This while loop works fine: " + i);
     }
+    // Increment the value of i
     i++
 }
