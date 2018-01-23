@@ -1,0 +1,19 @@
+QUESTION 1 OF 2
+
+Which of these variables a, b, c, or d, is defined in the global scope?
+
+var a = 1; // globals scope variable
+function x() {
+  var b = 2;
+  function y() {
+    var c = 3; // This variable is visible to both the child and parent, which means it is visible inside y and z functions
+
+    function z() {
+      var d = 4;
+    }
+    z();
+  }
+  y();
+}
+
+x();
