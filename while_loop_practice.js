@@ -11,6 +11,7 @@ for (let i = 1; i < 5; ++i) {
 
 i = 0
 while(i < 6){
+    // Adding condition to the while loop
     if (i % 3 === 0){
         console.log("This number " + i + " is divisible by 3");
     }
