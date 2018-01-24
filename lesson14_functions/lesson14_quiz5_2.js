@@ -14,4 +14,13 @@ function laugh(num){
     }
     return laugh + "!";
 }
-console.log(laugh(5));
+console.log(laugh(2));
+
+function buildTriangle(num){
+    var repeat = "";
+    for(var i = 0; i < num.length; ++i){
+        repeat += num[i];
+    }
+    return repeat;
+}
+buildTriangle(10)

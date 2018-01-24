@@ -7,7 +7,6 @@ function x() {
   var b = 2;
   function y() {
     var c = 3; // This variable is visible to both the child and parent, which means it is visible inside y and z functions
-
     function z() {
       var d = 4;
     }
