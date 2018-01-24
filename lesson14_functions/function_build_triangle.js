@@ -6,11 +6,20 @@ representation of a triangle. See the example output below.
 */
 function makeLine(length){
     var line = "";
-    for (var j = 1; j <= length; j++){
+    for (var j = 0; j <= length; j++){
         line += "* ";
     }
     return console.log(line + "\n");
 }
+
+function buildTriangle(num) {
+    var triangle = "";
+    for (var i = 0; i < num; i++){
+        triangle += makeLine(i);
+    }
+    return triangle;
+}
+buildTriangle(10);
 /*
 Steps to build the function
 1 - Create a function called makeLine
