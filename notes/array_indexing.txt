@@ -1,0 +1,38 @@
+Indexing
+Remember that elements in an array are indexed starting at the position 0. To access an element in an array, use the name of the array immediately followed by square brackets containing the index of the value you want to access.
+
+var donuts = ["glazed", "powdered", "sprinkled"];
+console.log(donuts[0]); // "glazed" is the first element in the `donuts` array
+Prints: "glazed"
+One thing to be aware of is if you try to access an element at an index that does not exist, a value of undefined will be returned back.
+
+console.log(donuts[3]); // the fourth element in `donuts` array does not exist!
+
+QUESTION 1 OF 2
+
+Take a look at the following donuts array.
+
+var donuts = ["glazed", "chocolate frosted", "Boston cream", "powdered", "sprinkled", "maple", "coconut", "jelly"];
+What line of code would you use to select the "coconut" donut from the donuts array?
+
+donuts[0]
+
+donuts[4]
+
+
+QUESTION 2 OF 2
+
+We’ve decided to replace some of donuts in the donuts array.
+
+var donuts = ["glazed", "chocolate frosted", "boston cream", "powdered", "sprinkled", "maple", "coconut", "jelly"];
+
+
+donuts[2] = "cinnamon twist";
+donuts[4] = "salted caramel";
+donuts[5] = "shortcake eclair";
+What does the donuts array look like after the following changes?
+
+["glazed", "chocolate frosted", "cinnamon twist", "salted caramel", "shortcake eclair", "maple", "coconut", "jelly"]
+
+["glazed", "cinnamon twist", "boston cream", "salted caramel", "shortcake eclair", "maple", "coconut", "jelly"]
+["glazed", "chocolate frosted", "cinnamon twist", "powdered", "salted caramel", "shortcake eclair", "coconut", "jelly"]
