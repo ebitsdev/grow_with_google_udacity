@@ -1,13 +1,21 @@
 /*
-Quiz: UdaciFamily (6-1)
-Directions:
-Create an array called udaciFamily and add "Julia", "James", and your name to the array. Then, print the udaciFamily to the console using console.log.
-*/
-
-/*
- * Programming Quiz: UdaciFamily (6-1)
+ * Programming Quiz: Colors of the Rainbow (6-4)
  */
+/*
+Directions:
+James was creating an array with the colors of the rainbow, and he forgot some colors. The standard rainbow colors are usually listed in this order:
 
-// your code goes here
-var udaciFamily = ["Julia", "James", "Emmanuel"];
-console.log(udaciFamily);
+var rainbow = ["Red", "Orange", "Yellow", "Green", "Blue", "Purple"];
+but James had this:
+
+var rainbow = ["Red", "Orange", "Blackberry", "Blue"];
+Using only the splice() method, insert the missing colors into the array, and remove the color "Blackberry" by following these steps:
+
+Remove "Blackberry"
+Add "Yellow" and "Green"
+Add "Purple" */
+var rainbow = ["Red", "Orange", "Blackberry", "Blue"];
+
+rainbow.splice(-2, 2, "Yellow", "Green","Blue","Purple");
+
+console.log(rainbow);

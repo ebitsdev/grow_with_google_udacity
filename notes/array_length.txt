@@ -1,0 +1,14 @@
+Length
+Array.length
+You can find the length of an array by using its length property.
+
+var donuts = ["glazed", "powdered", "sprinkled"];
+console.log(donuts.length);
+Prints: 3
+
+To access the length property, type the name of the array, followed by a period . 
+(you’ll also use the period to access other properties and methods), and the word length. 
+The length property will then return the number of elements in the array.
+
+TIP: Strings have a length property too! You can use it to get the length of any string. 
+For example, "supercalifragilisticexpialidocious".length returns 34.
