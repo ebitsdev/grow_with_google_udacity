@@ -18,7 +18,13 @@ function changeImgSrc(){
     $("#nav h1").html(header);
     var imgsrc = $(".article-item img");
     imgsrc.attr("src", "http://placekitten.com/350/150/"); //Replace the source of the image placeholder
+    $("#input").on("keypress", function(){
+        $("body").css("background-color", "orange");
+    });
  }
+function manipulateDom(){
+    
+}
 $(function(){
     changeImgSrc(); // Call the changeImgSrc() function
 })
