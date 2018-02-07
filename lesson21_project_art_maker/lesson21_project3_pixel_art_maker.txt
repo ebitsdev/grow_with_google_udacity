@@ -46,3 +46,12 @@ CSS Style Guide
 HTML Style Guide
 JavaScript Style Guide
 Git Style Guide
+
+Array(5)
+[
+{priority: "ADS-B Mandate", description: "DCPs to align with CFR 91.215 changes to allow ADS…ut OFF operations for sensitive/security missions", duedate: "09/13/2018", status: "Both DCPs sent out for initial review, due back 3/15", nextsteps: null, …}
+{priority: "Wake RECAT", description: "Support of the implementation of 3 IOCs during FY-18.", duedate: "09/30/2018", status: "AJV-82 conducted the initial RECAT site visit to D… 1/17, on track for implementation in late March.", nextsteps: null, …}
+{priority: "TBFM", description: "Establish Standards & Procedures for Time Based Flow Management. ", duedate: "09/30/2018", status: "Customer forum: Preparing for 1st forum in Atlanta…ompleted, recommendation to be completed on 2/15.", nextsteps: null, …}
+{priority: "UAS", description: "Support updates to UAS orders, development of DAA standards and UAS notification of Expanded Ops", duedate: "09/30/2018", status: "Change 1 to 7200.23A ongoing. SRMP for NASA No Chase COA (DAA research) at Edwards AFB on 2/21.", nextsteps: null, …}
+{priority: "Commercial Space", description: "Review and revise ATO launch and reentry operation… operations at federal and commercial spaceports.", duedate: "09/30/2018", status: "SRMD for the November Captive Carry Safety Panel w… on captive carry is anticipated in January 2018.", nextsteps: null, …}
+]
