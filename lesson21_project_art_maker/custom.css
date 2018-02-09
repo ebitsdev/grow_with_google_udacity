@@ -1,7 +1,7 @@
 body{
     font-size: 14px;
 }
-body::after {
+body {
     content: "";
     display: block;
     position: absolute;
@@ -10,7 +10,7 @@ body::after {
     height: 100%;
     background-image: url('./img/air_plaine.png');
     background-size: contain;
-    opacity: 0.7;
+    opacity: 0.9;
     top: 0;
     left: 0;
     bottom: 0;
