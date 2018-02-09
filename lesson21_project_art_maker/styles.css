@@ -19,16 +19,17 @@
 }
 
 .project-title{
-    font-family: 'Press Start 2P', cursive;
-    /* font-family: Monoton; */
+/*     font-family: 'Press Start 2P', cursive; */
+    font-family: Monoton;
     font-size: 1.5em;
     margin: 0.2em;
     color: #0275d8;
     font-weight: 300;
 }
 .project-subtitle, h2{
-    color: #0275d8;
-    font-weight: bolder;
+    color: #0275d8 !important;
+    font-weight: 700 !important;
+  font-size: 1em !important;
 }
 label{
     font-size: .7em;
@@ -64,4 +65,7 @@ tr {
 
 td {
     width: 10px;
+}
+#grid-container{
+    width: 70%;
 }
