@@ -39,3 +39,4 @@ $(function() {
     /* Call makeGrid on document ready */
     makeGrid();
 });
+/** More comments */
