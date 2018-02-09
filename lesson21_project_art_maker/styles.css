@@ -1,5 +1,9 @@
 #pixelCanvas {
     background: linear-gradient(orange, white);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  border-radius: 8px;
+  padding: 4px;
 
 }
 #colorPicker{
@@ -21,10 +25,9 @@
 .project-title{
 /*     font-family: 'Press Start 2P', cursive; */
     font-family: Monoton;
-    font-size: 1.5em;
+    font-size: 50px;
     margin: 0.2em;
     color: #0275d8;
-    font-weight: 300;
 }
 .project-subtitle, h2{
     color: #0275d8 !important;
@@ -68,4 +71,5 @@ td {
 }
 #grid-container{
     width: 70%;
+
 }
