@@ -10,6 +10,7 @@ h3 {
 /* Styling image tag */
 .animal-image {
     width: 300px;
+    height: 50%;
     margin: auto;
     display: block; /* To make the image display as block element for the margin property to work */
     padding-left: 5px;
@@ -33,7 +34,7 @@ h3 {
     border: solid 1px #c0c0c0;
     width: 300px;
     margin: auto;
-    
+
 }
 /* Styling first div in the HTML document */
 .animal-trading-card {
